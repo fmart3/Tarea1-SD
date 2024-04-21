@@ -1,0 +1,1000 @@
+book_id,books_count,authors,original_publication_year,title,average_rating,ratings_count
+1,272,Suzanne Collins,2008.0,"The Hunger Games (The Hunger Games, #1)",4.34,4780653
+2,491,"J.K. Rowling, Mary GrandPré",1997.0,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",4.44,4602479
+3,226,Stephenie Meyer,2005.0,"Twilight (Twilight, #1)",3.57,3866839
+6,226,John Green,2012.0,The Fault in Our Stars,4.26,2346404
+12,210,Veronica Roth,2011.0,"Divergent (Divergent, #1)",4.24,1903563
+17,201,Suzanne Collins,2009.0,"Catching Fire (The Hunger Games, #2)",4.3,1831039
+18,376,"J.K. Rowling, Mary GrandPré, Rufus Beck",1999.0,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",4.53,1832823
+20,239,Suzanne Collins,2010.0,"Mockingjay (The Hunger Games, #3)",4.03,1719760
+21,307,"J.K. Rowling, Mary GrandPré",2003.0,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",4.46,1735368
+23,398,"J.K. Rowling, Mary GrandPré",1998.0,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",4.37,1779331
+24,332,"J.K. Rowling, Mary GrandPré",2000.0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",4.53,1753043
+25,263,"J.K. Rowling, Mary GrandPré",2007.0,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",4.61,1746574
+27,275,"J.K. Rowling, Mary GrandPré",2005.0,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",4.54,1678823
+37,474,C.S. Lewis,1950.0,"The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)",4.19,1531800
+41,159,Rick Riordan,2005.0,"The Lightning Thief (Percy Jackson and the Olympians, #1)",4.23,1366265
+47,251,Markus Zusak,2005.0,The Book Thief,4.36,1159741
+49,194,Stephenie Meyer,2006.0,"New Moon (Twilight, #2)",3.52,1149630
+51,178,Cassandra Clare,2007.0,"City of Bones (The Mortal Instruments, #1)",4.12,1154031
+52,185,Stephenie Meyer,2007.0,"Eclipse (Twilight, #3)",3.69,1134511
+53,217,Christopher Paolini,2002.0,"Eragon (The Inheritance Cycle, #1)",3.86,1104021
+62,287,Philip Pullman,1995.0,"The Golden Compass (His Dark Materials, #1)",3.94,953970
+68,128,Stephen Chbosky,1999.0,The Perks of Being a Wallflower,4.21,888806
+69,164,Veronica Roth,2012.0,"Insurgent (Divergent, #2)",4.07,836362
+70,224,Orson Scott Card,1985.0,"Ender's Game (Ender's Saga, #1)",4.3,813439
+73,161,Stephenie Meyer,2008.0,"The Host (The Host, #1)",3.84,749780
+74,187,John Green,2005.0,Looking for Alaska,4.09,783470
+77,138,"Louis Sachar, Louis Sachar",1998.0,"Holes (Holes, #1)",3.93,747445
+88,178,John Green,2008.0,Paper Towns,3.88,461311
+90,156,S.E. Hinton,1967.0,The Outsiders,4.06,659248
+91,147,James Dashner,2009.0,"The Maze Runner (Maze Runner, #1)",4.02,719925
+105,153,Veronica Roth,2013.0,"Allegiant (Divergent, #3)",3.63,463257
+117,165,Madeleine L'Engle,1962.0,"A Wrinkle in Time (A Wrinkle in Time Quintet, #1)",4.04,615907
+120,93,Ann Brashares,2001.0,"The Sisterhood of the Traveling Pants (Sisterhood, #1)",3.75,525706
+133,1314,L.M. Montgomery,1908.0,"Anne of Green Gables (Anne of Green Gables, #1)",4.23,502247
+134,122,Cassandra Clare,2009.0,"City of Glass (The Mortal Instruments, #3)",4.34,593173
+139,155,Ransom Riggs,2011.0,"Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children, #1)",3.89,613674
+147,150,Jay Asher,2007.0,Thirteen Reasons Why,4.02,463783
+149,130,Gayle Forman,2009.0,"If I Stay (If I Stay, #1)",3.96,503527
+151,121,Rick Riordan,2006.0,"The Sea of Monsters (Percy Jackson and the Olympians, #2)",4.23,514932
+153,125,Cassandra Clare,2008.0,"City of Ashes (The Mortal Instruments, #2)",4.21,541117
+159,92,Rick Riordan,2008.0,"The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",4.39,508214
+164,103,Rainbow Rowell,2013.0,Eleanor & Park,4.11,514312
+166,84,Ally Condie,2010.0,"Matched (Matched, #1)",3.68,511815
+175,87,Rick Riordan,2009.0,"The Last Olympian (Percy Jackson and the Olympians, #5)",4.5,397500
+182,119,"Kami Garcia, Margaret Stohl",2009.0,"Beautiful Creatures (Caster Chronicles, #1)",3.76,436093
+183,103,Cassandra Clare,2010.0,"Clockwork Angel (The Infernal Devices, #1)",4.33,490890
+187,98,Scott Westerfeld,2005.0,"Uglies (Uglies, #1)",3.86,449073
+202,91,Becca Fitzpatrick,2009.0,"Hush, Hush (Hush, Hush, #1)",4.0,448166
+206,93,Kiera Cass,2012.0,"The Selection (The Selection, #1)",4.15,505340
+214,94,Rick Riordan,2007.0,"The Titan's Curse (Percy Jackson and the Olympians, #3)",4.33,446668
+219,270,"C.S. Lewis, Pauline Baynes",1956.0,"The Chronicles of Narnia (Chronicles of Narnia, #1-7)",4.24,376385
+220,20,Mark Cotta Vaz,,Twilight: The Complete Illustrated Movie Companion,4.23,291411
+223,163,Eoin Colfer,2001.0,"Artemis Fowl (Artemis Fowl, #1)",3.82,386923
+224,97,Lauren Kate,2009.0,"Fallen (Fallen, #1)",3.74,395296
+234,87,Laurie Halse Anderson,1999.0,Speak,4.0,360156
+241,81,Lois Lowry,1989.0,Number the Stars,4.11,333638
+245,125,Katherine Paterson,1977.0,Bridge to Terabithia,3.98,337644
+246,97,"P.C. Cast, Kristin Cast",2007.0,"Marked (House of Night, #1)",3.79,360044
+250,124,R.J. Palacio,2012.0,Wonder,4.43,228538
+252,92,Marissa Meyer,2012.0,"Cinder (The Lunar Chronicles, #1)",4.15,427663
+259,107,James Dashner,2010.0,"The Scorch Trials (Maze Runner, #2)",3.93,305643
+263,61,Gail Carson Levine,1997.0,Ella Enchanted,3.97,339117
+275,116,John Green,2006.0,An Abundance of Katherines,3.63,312754
+280,108,Lauren Oliver,2011.0,"Delirium (Delirium, #1)",3.99,256975
+282,153,Neil Gaiman,2002.0,Coraline,4.03,316379
+292,299,"C.S. Lewis, Pauline Baynes",1951.0,"The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",4.08,306492
+294,69,Rick Riordan,2011.0,"The Son of Neptune (The Heroes of Olympus, #2)",4.44,299980
+300,178,John Boyne,2006.0,The Boy in the Striped Pajamas,4.1,285692
+309,96,Cassandra Clare,2011.0,"City of Fallen Angels (The Mortal Instruments, #4)",4.16,341826
+312,129,"Neil Gaiman, Dave McKean",2008.0,The Graveyard Book,4.12,302303
+314,134,"Cornelia Funke, Anthea Bell",2003.0,"Inkheart (Inkworld, #1)",3.86,285011
+319,101,Cassandra Clare,2012.0,"City of Lost Souls (The Mortal Instruments, #5)",4.3,300553
+321,69,Wilson Rawls,1961.0,Where the Red Fern Grows,4.04,268548
+324,80,Rainbow Rowell,2013.0,Fangirl,4.12,340379
+327,91,Marie Lu,2011.0,"Legend (Legend, #1)",4.19,299998
+332,312,C.S. Lewis,1953.0,"The Magician's Nephew (Chronicles of Narnia, #6)",4.01,268355
+340,38,Pittacus Lore,2010.0,"I Am Number Four (Lorien Legacies, #1)",3.94,253437
+347,348,C.S. Lewis,1951.0,"Prince Caspian (Chronicles of Narnia, #2)",3.96,250221
+348,77,E. Lockhart,2014.0,We Were Liars,3.85,273442
+351,99,Cassandra Clare,2011.0,"Clockwork Prince (The Infernal Devices, #2)",4.46,307994
+355,87,Kristin Cashore,2008.0,"Graceling (Graceling Realm, #1)",4.1,281185
+363,79,Stephanie Perkins,2010.0,"Anna and the French Kiss (Anna and the French Kiss, #1)",4.08,259479
+368,55,Philip Pullman,1997.0,"The Subtle Knife (His Dark Materials, #2)",4.1,242503
+369,85,Jerry Spinelli,2000.0,"Stargirl (Stargirl, #1)",3.74,237560
+370,76,Rick Riordan,2010.0,"The Red Pyramid (Kane Chronicles, #1)",4.06,232791
+376,88,James Dashner,2011.0,"The Death Cure (Maze Runner, #3)",3.77,223674
+382,86,"John Green, David Levithan",2010.0,"Will Grayson, Will Grayson",3.84,236431
+384,93,Richelle Mead,2008.0,"Frostbite (Vampire Academy, #2)",4.3,256745
+386,127,Scott O'Dell,1960.0,"Island of the Blue Dolphins (Island of the Blue Dolphins, #1)",3.8,236015
+388,93,Gary Paulsen,1986.0,"Hatchet (Brian's Saga, #1)",3.68,222553
+393,73,Sarah J. Maas,2012.0,"Throne of Glass (Throne of Glass, #1)",4.24,274987
+394,88,Richelle Mead,2008.0,"Shadow Kiss (Vampire Academy, #3)",4.37,266742
+399,131,J.K. Rowling,2007.0,The Tales of Beedle the Bard,4.06,284833
+415,78,Alyson Noel,2009.0,"Evermore (The Immortals, #1)",3.59,230031
+418,71,Richelle Mead,2010.0,"Spirit Bound (Vampire Academy, #5)",4.37,224247
+419,76,Richelle Mead,2009.0,"Blood Promise (Vampire Academy, #4)",4.35,231853
+422,76,J.K. Rowling,1998.0,"Harry Potter Boxset (Harry Potter, #1-7)",4.74,190050
+423,84,Kiera Cass,2013.0,"The Elite (The Selection, #2)",4.02,234247
+425,92,"Beatrice Sparks, Anonymous",1971.0,Go Ask Alice,3.77,196677
+428,65,Rick Riordan,2012.0,"The Mark of Athena (The Heroes of Olympus, #3)",4.47,277491
+434,73,Becca Fitzpatrick,2010.0,"Crescendo (Hush, Hush, #2)",4.07,226237
+435,82,Lauren Oliver,2010.0,Before I Fall,3.92,220160
+443,61,Sarah Dessen,2006.0,Just Listen,4.06,202180
+447,143,Christopher Paolini,2008.0,"Brisingr (The Inheritance Cycle, #3)",4.03,211645
+449,80,"P.C. Cast, Kristin Cast",2007.0,"Betrayed (House of Night, #2)",3.93,205340
+452,102,Rick Yancey,2013.0,"The 5th Wave (The 5th Wave, #1)",4.1,260048
+460,79,Cassandra Clare,2013.0,"Clockwork Princess (The Infernal Devices, #3)",4.59,162099
+475,8,Gayle Forman,2011.0,"Where She Went (If I Stay, #2)",4.06,193141
+480,42,Philip Pullman,2000.0,"The Amber Spyglass (His Dark Materials, #3)",4.06,192315
+486,69,Jeanne DuPrau,2003.0,"The City of Ember (Book of Ember, #1)",3.85,198809
+491,67,"P.C. Cast, Kristin Cast",2008.0,"Untamed (House of Night, #4)",3.95,191743
+500,125,Meg Cabot,2000.0,"The Princess Diaries (The Princess Diaries, #1)",3.76,193140
+506,94,Kiera Cass,2014.0,"The One (The Selection, #3)",4.21,139544
+507,78,Suzanne Collins,2010.0,"The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",4.49,129665
+517,52,Simone Elkeles,2008.0,"Perfect Chemistry (Perfect Chemistry, #1)",4.07,198627
+519,78,Scott Westerfeld,2005.0,"Pretties (Uglies, #2)",3.85,193405
+525,76,Lauren Oliver,2012.0,"Pandemonium (Delirium, #2)",4.07,181656
+535,89,Laini Taylor,2011.0,"Daughter of Smoke & Bone (Daughter of Smoke & Bone, #1)",4.04,198283
+536,84,Victoria Aveyard,2015.0,"Red Queen (Red Queen, #1)",4.08,83354
+541,45,Sarah Dessen,2004.0,The Truth About Forever,4.13,179415
+542,280,C.S. Lewis,1954.0,"The Horse and His Boy (Chronicles of Narnia, #5)",3.9,189671
+543,63,Richelle Mead,2010.0,"Last Sacrifice (Vampire Academy, #6)",4.42,206792
+548,75,Sara Shepard,2006.0,"Pretty Little Liars (Pretty Little Liars, #1)",3.9,156328
+561,82,"Norton Juster, Jules Feiffer",1961.0,The Phantom Tollbooth,4.22,178432
+564,32,Ned Vizzini,2006.0,It's Kind of a Funny Story,4.14,161001
+569,96,James Patterson,2005.0,"The Angel Experiment (Maximum Ride, #1)",4.08,172302
+577,127,Natalie Babbitt,1975.0,Tuck Everlasting,3.85,174280
+583,65,Becca Fitzpatrick,2011.0,"Silence (Hush, Hush, #3)",4.16,190722
+586,65,Libba Bray,2003.0,"A Great and Terrible Beauty (Gemma Doyle, #1)",3.79,173613
+591,67,"Sherman Alexie, Ellen Forney",2007.0,The Absolutely True Diary of a Part-Time Indian,4.11,160607
+593,157,Ursula K. Le Guin,1968.0,"A Wizard of Earthsea (Earthsea Cycle, #1)",3.99,155042
+595,82,John Knowles,1959.0,A Separate Peace,3.56,155901
+600,82,Lauren Kate,2010.0,"Torment (Fallen, #2)",3.89,174393
+602,257,"C.S. Lewis, Pauline Baynes",1953.0,"The Silver Chair (Chronicles of Narnia, #4)",3.95,170453
+607,7,Cassandra Clare,2014.0,"City of Heavenly Fire (The Mortal Instruments, #6)",4.48,177796
+615,42,Sarah Dessen,2002.0,This Lullaby,4.03,151829
+621,75,Judy Blume,1970.0,"Are You There God? It's Me, Margaret",3.89,151789
+632,77,Tahereh Mafi,2011.0,"Shatter Me (Shatter Me, #1)",4.01,176433
+636,14,Mark Cotta Vaz,2011.0,"The Twilight Saga Breaking Dawn Part 1: The Official Illustrated Movie Companion (The Twilight Saga: The Official Illustrated Movie Companion, #4)",4.3,188136
+641,245,C.S. Lewis,1956.0,"The Last Battle (Chronicles of Narnia, #7)",4.02,158701
+643,77,"P.C. Cast, Kristin Cast",2008.0,"Chosen (House of Night, #3)",3.9,180961
+645,74,Alex Flinn,2007.0,"Beastly (Beastly, #1; Kendra Chronicles, #1)",3.84,150003
+648,119,Christopher Paolini,2011.0,"Inheritance (The Inheritance Cycle, #4)",4.08,146905
+655,63,Ally Condie,2011.0,"Crossed (Matched, #2)",3.52,100886
+656,58,Ally Carter,2006.0,"I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)",3.82,150222
+667,41,Sarah Dessen,2009.0,Along for the Ride,4.08,151721
+684,63,Rick Riordan,2013.0,"The House of Hades (The Heroes of Olympus, #4)",4.54,159774
+685,61,Michael  Grant,2008.0,"Gone (Gone, #1)",3.85,144606
+707,65,Sharon Creech,1994.0,Walk Two Moons,3.95,129350
+711,62,Neal Shusterman,2007.0,"Unwind (Unwind, #1)",4.18,143892
+717,11,Kate Egan,2012.0,The Hunger Games: Official Illustrated Movie Companion,4.51,119915
+732,93,Stephenie Meyer,2009.0,"The Short Second Life of Bree Tanner: An Eclipse Novella (Twilight, #3.5)",3.51,145874
+740,14,"Laura Ingalls Wilder, Garth Williams",1953.0,"The Little House Collection (Little House, #1-9)",4.33,124320
+747,99,Garth Nix,1995.0,"Sabriel (Abhorsen,  #1)",4.17,137047
+756,58,Julie Kagawa,2010.0,"The Iron King (The Iron Fey, #1)",3.92,158063
+759,37,Richelle Mead,2011.0,"Bloodlines (Bloodlines, #1)",4.22,140599
+774,51,Marissa Meyer,2014.0,"Cress (The Lunar Chronicles, #3)",4.46,162069
+781,66,Scott Westerfeld,2006.0,"Specials (Uglies, #3)",3.77,139168
+783,63,"P.C. Cast, Kristin Cast",2009.0,"Hunted (House of Night, #5)",3.93,138103
+793,83,E.L. Konigsburg,1967.0,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,4.15,134537
+805,61,"P.C. Cast, Kristin Cast",2010.0,"Burned (House of Night, #7)",3.98,120763
+808,73,Brian Selznick,2007.0,The Invention of Hugo Cabret,4.23,132159
+814,62,"P.C. Cast, Kristin Cast",2008.0,"Tempted (House of Night, #6)",3.96,127387
+817,75,Diana Wynne Jones,1986.0,"Howl's Moving Castle (Howl's Moving Castle, #1)",4.3,123945
+827,60,Jenny Han,2014.0,"To All the Boys I've Loved Before (To All the Boys I've Loved Before, #1)",4.11,136938
+830,53,Kody Keplinger,2010.0,The DUFF: Designated Ugly Fat Friend,3.86,136736
+831,38,Sarah Dessen,2008.0,Lock and Key,4.01,120475
+834,1,Stephenie Meyer,2008.0,"Midnight Sun (Twilight, #1.5)",4.03,138118
+837,66,David Levithan,2012.0,"Every Day (Every Day, #1)",3.99,121863
+849,67,Louise Rennison,1999.0,"Angus, Thongs and Full-Frontal Snogging (Confessions of Georgia Nicolson, #1)",3.74,112733
+853,49,Jerry Spinelli,1990.0,Maniac Magee,3.86,99831
+856,73,Lois Lowry,2000.0,"Gathering Blue (The Giver, #2)",3.8,114917
+857,38,Ellen Raskin,1978.0,The Westing Game,4.03,117108
+875,62,Melissa Marr,2007.0,"Wicked Lovely (Wicked Lovely, #1)",3.69,131034
+880,52,Kelley Armstrong,2008.0,"The Summoning (Darkest Powers, #1)",4.03,132285
+884,29,Ransom Riggs,2014.0,"Hollow City (Miss Peregrine’s Peculiar Children, #2)",4.07,73149
+909,66,Rick Riordan,2011.0,"The Throne of Fire (Kane Chronicles, #2)",4.2,116360
+918,121,Eoin Colfer,2002.0,"The Arctic Incident (Artemis Fowl, #2)",3.94,108031
+921,74,"Jennifer Niven, فرانک معنوی",2015.0,All the Bright Places,4.19,132087
+923,85,Michael Scott,2007.0,"The Alchemyst (The Secrets of the Immortal Nicholas Flamel, #1)",3.84,58396
+927,22,Ellen Hopkins,2004.0,"Crank (Crank, #1)",4.16,104168
+928,64,Maggie Stiefvater,2012.0,"The Raven Boys (The Raven Cycle, #1)",4.05,121727
+933,70,Kristin Cashore,2009.0,"Fire (Graceling Realm, #2)",4.12,98180
+937,81,Philip Pullman,2000.0,His Dark Materials (His Dark Materials #1-3),4.25,88227
+945,66,Lauren Kate,2011.0,"Passion (Fallen, #3)",3.89,119735
+946,66,James Dashner,2012.0,"The Kill Order (Maze Runner, #0.5)",3.69,96568
+950,71,Jandy Nelson,2014.0,I'll Give You the Sun,4.14,140937
+957,76,Maggie Stiefvater,2010.0,"Linger (The Wolves of Mercy Falls, #2)",3.91,125363
+958,40,L.M. Montgomery,1908.0,"The Complete Anne of Green Gables Boxed Set (Anne of Green Gables, #1-8)",4.42,92142
+970,64,Brandon Sanderson,2013.0,"Steelheart (The Reckoners, #1)",4.16,76261
+981,47,Melissa de la Cruz,2006.0,"Blue Bloods (Blue Bloods, #1)",3.68,116687
+987,138,"Patrick Ness, Jim Kay, Siobhan Dowd",2011.0,A Monster Calls,4.36,104579
+992,36,"Stephenie Meyer, Ilyana Kadushin, Matt Walters",2005.0,"The Twilight Saga (Twilight, #1-4)",3.88,89204
+993,49,Carol Rifka Brunt,2012.0,Tell the Wolves I'm Home,4.04,85582
+995,42,Michelle Hodkin,2011.0,"The Unbecoming of Mara Dyer (Mara Dyer, #1)",4.09,83847
+1000,66,Leigh Bardugo,2012.0,"Shadow and Bone (Shadow and Bone, #1)",4.05,135225
+1002,57,Marie Lu,2013.0,"Champion (Legend, #3)",4.37,114623
+1004,22,Stephanie Perkins,2011.0,"Lola and the Boy Next Door (Anna and the French Kiss, #2)",4.0,108370
+1008,71,Pittacus Lore,2011.0,"The Power of Six (Lorien Legacies, #2)",4.17,97938
+1032,51,Brandon Mull,2006.0,"Fablehaven (Fablehaven, #1)",4.08,99390
+1038,78,Mildred D. Taylor,1976.0,"Roll of Thunder, Hear My Cry (Logans, #4)",3.79,92980
+1045,83,Veronica Roth,2014.0,"Four: A Divergent Story Collection (Divergent, #0.1 - 0.4)",4.1,97058
+1050,83,Patrick Ness,2008.0,"The Knife of Never Letting Go (Chaos Walking, #1)",3.96,99638
+1054,51,Ally Condie,2012.0,"Reached (Matched, #3)",3.56,109290
+1059,29,Margaret Peterson Haddix,1998.0,"Among the Hidden (Shadow Children, #1)",3.97,94478
+1061,60,Elizabeth George Speare,1958.0,The Witch of Blackbird Pond,3.97,105770
+1066,50,Jenny Han,2009.0,"The Summer I Turned Pretty (Summer, #1)",3.96,104730
+1080,33,Huntley Fitzpatrick,2012.0,My Life Next Door,4.02,102012
+1087,79,Markus Zusak,2002.0,I Am the Messenger,4.09,93119
+1093,61,"P.C. Cast, Kristin Cast",2011.0,"Awakened (House of Night, #8)",4.02,101234
+1095,32,Susan Beth Pfeffer,2006.0,"Life As We Knew It (Last Survivors, #1)",3.89,94282
+1112,5,L.M. Montgomery,1915.0,"Anne of the Island (Anne of Green Gables, #3)",4.21,97049
+1118,73,Lauren Oliver,2013.0,"Requiem (Delirium, #3)",3.74,100593
+1137,119,Eoin Colfer,2003.0,"The Eternity Code (Artemis Fowl, #3)",4.04,94437
+1140,53,Rachel Hawkins,2010.0,"Hex Hall (Hex Hall, #1)",3.96,109881
+1147,76,"Kami Garcia, Margaret Stohl",2010.0,"Beautiful Darkness (Caster Chronicles, #2)",3.84,95447
+1155,99,Jonathan Stroud,2003.0,"The Amulet of Samarkand (Bartimaeus, #1)",3.99,86062
+1163,83,"Lemony Snicket, Brett Helquist",2000.0,"The Miserable Mill (A Series of Unfortunate Events, #4)",3.83,101325
+1172,100,Eoin Colfer,2005.0,"The Opal Deception  (Artemis Fowl, #4)",4.04,95638
+1175,34,Shannon Hale,2003.0,"The Goose Girl (The Books of Bayern, #1)",4.18,92952
+1177,73,Isaac Marion,2010.0,"Warm Bodies (Warm Bodies, #1)",3.93,66381
+1192,89,Ruta Sepetys,2011.0,Between Shades of Gray,4.36,87718
+1196,66,Madeleine L'Engle,1973.0,"A Wind in the Door (A Wrinkle in Time Quintet, #2)",4.07,87277
+1197,10,Veronica Roth,2012.0,"Free Four: Tobias Tells the Divergent Knife-Throwing Scene (Divergent, #1.5)",4.18,81621
+1203,41,Benjamin Alire Sáenz,2012.0,"Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe, #1)",4.34,108884
+1210,203,L.M. Montgomery,1909.0,"Anne of Avonlea (Anne of Green Gables, #2)",4.21,99918
+1215,40,Sarah Dessen,1998.0,Someone Like You,3.94,84358
+1227,44,Kelley Armstrong,2009.0,"The Awakening (Darkest Powers, #2)",4.16,95026
+1233,62,"Lemony Snicket, Brett Helquist",2001.0,"The Vile Village (A Series of Unfortunate Events, #7)",3.94,89733
+1243,89,John Flanagan,2004.0,"The Ruins of Gorlan (Ranger's Apprentice, #1)",4.2,83085
+1244,56,Laurie Halse Anderson,2009.0,Wintergirls,3.98,87665
+1251,39,Kelley Armstrong,2010.0,"The Reckoning (Darkest Powers, #3)",4.21,92922
+1255,67,Sandra Cisneros,1984.0,The House on Mango Street,3.57,81579
+1259,66,Garth Nix,2003.0,"Abhorsen (Abhorsen, #3)",4.29,80740
+1276,41,Cynthia Hand,2011.0,"Unearthly (Unearthly, #1)",4.06,99942
+1279,59,Carl Hiaasen,2002.0,Hoot,3.81,75275
+1284,48,Jenny Han,2010.0,"It's Not Summer Without You (Summer, #2)",4.14,80367
+1286,103,"Kennilworthy Whisp, J.K. Rowling",2001.0,Quidditch Through the Ages,3.85,90908
+1289,66,"Lemony Snicket, Brett Helquist",2001.0,"The Ersatz Elevator (A Series of Unfortunate Events, #6)",4.01,90071
+1290,56,Lois Lowry,2004.0,"Messenger (The Giver, #3)",3.9,79746
+1293,44,"Trenton Lee Stewart, Carson Ellis",2007.0,"The Mysterious Benedict Society (The Mysterious Benedict Society, #1)",4.14,87335
+1297,59,Jennifer E. Smith,2012.0,The Statistical Probability of Love at First Sight,3.8,89356
+1298,80,Jonathan Stroud,2004.0,"The Golem's Eye (Bartimaeus, #2)",4.09,69058
+1302,56,Beth Revis,2011.0,"Across the Universe (Across the Universe, #1)",3.78,94176
+1305,56,"Gertrude Chandler Warner, L. Kate Deal",1942.0,"The Boxcar Children (The Boxcar Children, #1)",4.09,92916
+1323,98,Angie Sage,2005.0,"Magyk (Septimus Heap, #1)",3.8,86805
+1324,27,Laurie Halse Anderson,2000.0,Fever 1793,3.89,81945
+1350,69,Garth Nix,2001.0,"Lirael (Abhorsen, #2)",4.29,78903
+1351,72,James Patterson,2006.0,"School's Out—Forever (Maximum Ride, #2)",4.16,90157
+1353,40,Marissa Meyer,2015.0,"Winter (The Lunar Chronicles, #4)",4.49,100464
+1359,60,Rick Riordan,2012.0,"The Serpent's Shadow (Kane Chronicles, #3)",4.28,82757
+1366,68,Rick Yancey,2014.0,"The Infinite Sea (The 5th Wave, #2)",3.94,78314
+1369,51,Christopher Paul Curtis,1999.0,"Bud, Not Buddy",3.89,73000
+1375,75,Jesse Andrews,2012.0,Me and Earl and the Dying Girl,3.58,82270
+1387,37,"L.J. Smith, Kevin Williamson, Julie Plec",2010.0,"Origins (The Vampire Diaries: Stefan's Diaries, #1)",4.1,59715
+1391,82,"Cornelia Funke, Anthea Bell",2005.0,"Inkspell (Inkworld, #2)",3.91,82291
+1397,79,Eoin Colfer,2006.0,"The Lost Colony (Artemis Fowl, #5)",4.01,103844
+1398,52,Scott Westerfeld,2006.0,"Extras (Uglies, #4)",3.59,85873
+1399,73,John Flanagan,2005.0,"The Burning Bridge (Ranger's Apprentice, #2)",4.28,74156
+1413,57,Veronica Rossi,2011.0,"Under the Never Sky (Under the Never Sky, #1)",4.01,74029
+1416,35,Richelle Mead,2012.0,"The Golden Lily (Bloodlines, #2)",4.36,86929
+1425,60,"Kami Garcia, Margaret Stohl, Paz Pruneda",2011.0,"Beautiful Chaos (Caster Chronicles, #3)",3.95,69709
+1431,86,Brian Jacques,1986.0,"Redwall (Redwall, #1)",4.11,73918
+1437,44,Julie Kagawa,2010.0,The Iron Daughter,4.13,93340
+1439,87,Karen Thompson Walker,2012.0,The Age of Miracles,3.64,61296
+1445,45,Wendelin Van Draanen,2001.0,Flipped,3.94,79264
+1452,50,Shannon Hale,2005.0,"Princess Academy (Princess Academy, #1)",4.01,82470
+1453,86,"Nicola Yoon, David Yoon",2015.0,"Everything, Everything",4.11,132552
+1456,31,Brandon Mull,2008.0,"Grip of the Shadow Plague (Fablehaven, #3)",4.26,65638
+1465,79,Chaim Potok,1967.0,The Chosen,4.03,70701
+1472,71,Sabaa Tahir,2015.0,"An Ember in the Ashes (An Ember in the Ashes, #1)",4.32,45492
+1476,50,"Lemony Snicket, Brett Helquist",2003.0,"The Slippery Slope (A Series of Unfortunate Events, #10)",4.0,81362
+1480,14,Tamora Pierce,1983.0,"Alanna: The First Adventure (Song of the Lioness, #1)",4.27,85699
+1502,66,Laini Taylor,2012.0,"Days of Blood & Starlight (Daughter of Smoke & Bone, #2)",4.21,85746
+1504,61,John Flanagan,2006.0,"The Battle for Skandia (Ranger's Apprentice, #4)",4.32,60959
+1505,41,Alexandra Bracken,2012.0,"The Darkest Minds (The Darkest Minds, #1)",4.26,83886
+1523,44,Lauren DeStefano,2011.0,"Wither (The Chemical Garden, #1)",3.81,84776
+1531,75,Suzanne Collins,2003.0,"Gregor the Overlander (Underland Chronicles, #1)",3.99,66823
+1535,73,James Patterson,2006.0,"Saving the World and Other Extreme Sports (Maximum Ride, #3)",4.16,75436
+1540,39,Melissa de la Cruz,2007.0,"Masquerade (Blue Bloods, #2)",3.91,76598
+1541,35,Julie Kagawa,2011.0,"The Iron Queen (The Iron Fey, #3)",4.24,82373
+1549,56,"Lemony Snicket, Brett Helquist",2002.0,"The Carnivorous Carnival (A Series of Unfortunate Events, #9)",3.97,83981
+1550,42,Ally Carter,2010.0,"Heist Society (Heist Society, #1)",3.91,75834
+1554,70,Jonathan Stroud,2006.0,"Ptolemy's Gate (Bartimaeus, #3)",4.24,63838
+1558,41,Sharon M. Draper,2010.0,Out of My Mind,4.37,63756
+1559,59,Lauren Kate,2012.0,"Rapture (Fallen, #4)",4.03,79360
+1560,68,Amanda Hocking,2010.0,"Switched (Trylle, #1)",3.89,45319
+1575,77,"John Green, Maureen Johnson, Lauren Myracle",2008.0,Let It Snow: Three Holiday Romances,3.84,57632
+1583,34,"Rachel Cohn, David Levithan",2006.0,Nick & Norah's Infinite Playlist,3.73,60372
+1585,76,Maggie Stiefvater,2011.0,"Forever (The Wolves of Mercy Falls, #3)",3.91,85034
+1591,110,Ursula K. Le Guin,1972.0,"The Farthest Shore (Earthsea Cycle, #3)",4.11,65626
+1604,13,Ellen Hopkins,2007.0,"Impulse (Impulse, #1)",4.29,59804
+1608,39,Kiersten White,2010.0,"Paranormalcy (Paranormalcy, #1)",3.91,79959
+1611,47,Brandon Mull,2006.0,"Rise of the Evening Star (Fablehaven, #2)",4.16,79266
+1614,39,Jenny Han,2011.0,"We'll Always Have Summer (Summer, #3)",4.17,68112
+1616,113,Anthony Horowitz,2000.0,"Stormbreaker (Alex Rider, #1)",3.97,67602
+1619,11,Stephenie Meyer,2005.0,"The Twilight Saga Complete Collection  (Twilight, #1-4 + 3.5)",4.31,56827
+1626,12,Brandon Mull,2009.0,"Secrets of the Dragon Sanctuary (Fablehaven, #4)",4.35,60744
+1629,118,Ursula K. Le Guin,1970.0,"The Tombs of Atuan (Earthsea Cycle, #2)",4.07,61457
+1634,69,Michael Scott,2008.0,"The Magician (The Secrets of the Immortal Nicholas Flamel, #2)",4.09,67539
+1637,50,Kendare Blake,2011.0,"Anna Dressed in Blood (Anna, #1)",3.96,72732
+1639,51,Avi,1990.0,The True Confessions of Charlotte Doyle,3.81,67608
+1652,55,Ally Carter,2007.0,"Cross My Heart and Hope to Spy (Gallagher Girls, #2)",4.13,69733
+1667,31,Sarah Dessen,2011.0,What Happened to Goodbye,3.97,69636
+1669,35,Maureen Johnson,2005.0,"13 Little Blue Envelopes (Little Blue Envelope, #1)",3.65,66950
+1671,51,Rainbow Rowell,2015.0,Carry On,4.19,46197
+1678,53,Nancy Farmer,2002.0,"The House of the Scorpion (Matteo Alacran, #1)",4.1,61613
+1696,55,Rachel Caine,2006.0,"Glass Houses (The Morganville Vampires, #1)",3.92,77454
+1716,59,Pittacus Lore,2012.0,"The Rise of Nine (Lorien Legacies, #3)",4.2,70196
+1718,77,Ann Brashares,2003.0,"The Second Summer of the Sisterhood (Sisterhood, #2)",3.78,67357
+1720,35,Morgan Matson,2010.0,Amy & Roger's Epic Detour,4.05,65273
+1722,100,Terry Pratchett,2003.0,"The Wee Free Men (Discworld, #30; Tiffany Aching, #1)",4.25,63635
+1724,53,Andrea Cremer,2010.0,Nightshade (Nightshade #1; Nightshade World #4),4.03,69534
+1726,71,Cornelia Funke,1997.0,"Dragon Rider (Dragon Rider, #1)",3.94,61387
+1737,65,Victoria Aveyard,2016.0,"Glass Sword (Red Queen, #2)",3.95,78405
+1738,51,Rebecca Stead,2009.0,When You Reach Me,4.08,64430
+1743,44,Leigh Bardugo,2013.0,"Siege and Storm (Shadow and Bone, #2)",4.08,78658
+1745,54,Scott Westerfeld,2009.0,"Leviathan (Leviathan, #1)",3.91,69065
+1760,12,Brandon Mull,2010.0,"Keys to the Demon Prison (Fablehaven, #5)",4.42,58481
+1764,74,Eoin Colfer,2008.0,"The Time Paradox (Artemis Fowl, #6)",4.07,61987
+1766,51,Kristin Cashore,2012.0,"Bitterblue (Graceling Realm, #3)",4.01,74479
+1767,68,Jandy Nelson,2010.0,The Sky Is Everywhere,4.04,61937
+1772,59,"Walter Farley, Keith Ward",1941.0,"The Black Stallion (The Black Stallion, #1)",4.18,60720
+1782,48,Maggie Stiefvater,2013.0,"The Dream Thieves (The Raven Cycle, #2)",4.27,75637
+1789,35,Sarah Dessen,2000.0,Dreamland,3.91,64082
+1799,46,Rachel Hawkins,2011.0,"Demonglass (Hex Hall, #2)",4.13,74589
+1803,33,L.J. Smith,2007.0,"The Awakening / The Struggle (The Vampire Diaries, #1-2)",3.67,68651
+1805,12,L.J. Smith,2009.0,"Night World, No. 3 (Night World, #7-9)",4.2,58232
+1807,47,Maggie Stiefvater,2011.0,The Scorpio Races,4.08,70335
+1809,41,Brian Jacques,1988.0,"Mossflower (Redwall, #2)",4.09,56860
+1820,47,Michael  Grant,2009.0,"Hunger (Gone, #2)",4.02,60519
+1824,62,Sara Shepard,2007.0,"Flawless (Pretty Little Liars, #2)",3.96,59403
+1827,62,"Lemony Snicket, Brett Helquist",2001.0,"The Hostile Hospital (A Series of Unfortunate Events, #8)",3.95,66327
+1830,69,Alyson Noel,2009.0,"Blue Moon (The Immortals, #2)",3.61,74367
+1849,50,Gayle Forman,2013.0,"Just One Day (Just One Day, #1)",4.02,47674
+1850,50,Lisa McMann,2008.0,"Wake (Wake, #1)",3.75,69046
+1852,16,Ellen Hopkins,2007.0,"Glass (Crank, #2)",4.28,51726
+1857,52,Tamora Pierce,1984.0,"In the Hand of the Goddess (Song of the Lioness, #2)",4.25,66382
+1860,80,"Kerstin Gier, Anthea Bell",2009.0,"Ruby Red (Precious Stone Trilogy, #1)",4.12,62978
+1861,64,Alyson Noel,2009.0,"Shadowland (The Immortals, #3)",3.66,68104
+1863,51,Tamora Pierce,1988.0,"Lioness Rampant (Song of the Lioness, #4)",4.28,65027
+1869,33,"Patricia C. Wrede, Peter de Sève",1990.0,"Dealing with Dragons (Enchanted Forest Chronicles, #1)",4.14,67663
+1890,26,Richelle Mead,2013.0,"The Indigo Spell (Bloodlines, #3)",4.41,73056
+1903,35,Lois Lowry,2012.0,"Son (The Giver, #4)",3.98,54620
+1906,37,Simone Elkeles,2010.0,"Rules of Attraction (Perfect Chemistry, #2)",4.22,68270
+1917,56,Carrie Ryan,2009.0,"The Forest of Hands and Teeth (The Forest of Hands and Teeth, #1)",3.59,64093
+1944,45,Libba Bray,2005.0,"Rebel Angels (Gemma Doyle, #2)",3.98,81420
+1948,71,Ransom Riggs,2015.0,"Library of Souls (Miss Peregrine's Peculiar Children, #3)",4.15,58435
+1957,103,Dodie Smith,1948.0,I Capture the Castle,4.0,56444
+1958,61,"P.C. Cast, Kristin Cast",2011.0,"Destined (House of Night, #9)",4.04,56737
+1965,39,Marie Lu,2014.0,"The Young Elites (The Young Elites, #1)",3.93,60930
+1968,47,"Dave Barry, Ridley Pearson, Greg Call",2004.0,"Peter and the Starcatchers (Peter and the Starcatchers, #1)",4.01,57575
+1971,31,Melissa de la Cruz,2008.0,"Revelations (Blue Bloods, #3)",3.89,66170
+1997,33,Robin LaFevers,2012.0,"Grave Mercy (His Fair Assassin, #1)",3.92,70476
+2007,92,Cornelia Funke,2000.0,The Thief Lord,3.95,60780
+2017,60,Michael Scott,2009.0,"The Sorceress (The Secrets of the Immortal Nicholas Flamel, #3)",4.11,58278
+2019,33,Rick Riordan,2008.0,"The Maze of Bones  (The 39 Clues, #1)",3.83,59536
+2021,5,Stephenie Meyer,2007.0,"The Twilight Collection (Twilight, #1-3)",3.78,42361
+2038,33,Melissa de la Cruz,2009.0,"The Van Alen Legacy (Blue Bloods, #4)",3.95,58724
+2050,12,L.J. Smith,2008.0,"Night World, No. 2 (Night World, #4-6)",4.2,53023
+2054,70,Ann Brashares,2005.0,"Girls in Pants: The Third Summer of the Sisterhood (Sisterhood, #3)",3.82,56485
+2068,33,Karen Hesse,1997.0,Out of the Dust,3.73,53706
+2071,57,Elizabeth Wein,2012.0,"Code Name Verity (Code Name Verity, #1)",4.08,55139
+2072,12,Ellen Hopkins,2006.0,"Burned (Burned, #1)",4.24,48333
+2077,46,Anna Godbersen,2007.0,"The Luxe (Luxe, #1)",3.63,58717
+2092,13,Ellen Hopkins,2008.0,Identical,4.34,47804
+2104,34,Stephanie Perkins,2014.0,"Isla and the Happily Ever After (Anna and the French Kiss, #3)",4.1,70995
+2112,44,Jenny Han,2015.0,"P.S. I Still Love You (To All the Boys I've Loved Before, #2)",4.17,62907
+2118,51,Brandon Sanderson,2015.0,"Firefight (The Reckoners, #2)",4.29,41924
+2120,61,Michael Scott,2010.0,"The Necromancer  (The Secrets of the Immortal Nicholas Flamel, #4)",4.12,46878
+2122,22,Patricia McCormick,2000.0,Cut,3.76,48239
+2125,83,Lloyd Alexander,1964.0,"The Book of Three (The Chronicles of Prydain, #1)",4.0,56593
+2130,59,Amanda Hocking,2010.0,"Torn (Trylle, #2)",4.04,29554
+2134,52,Claudia Gray,2008.0,"Evernight (Evernight, #1)",3.64,63486
+2148,39,Walter Dean Myers,1999.0,Monster,3.7,47533
+2152,53,Sara Shepard,2007.0,"Perfect (Pretty Little Liars, #3)",4.02,50922
+2161,23,Morgan Matson,2014.0,Since You've Been Gone,4.19,59705
+2164,69,John Flanagan,2005.0,"The Icebound Land (Ranger's Apprentice, #3)",4.22,48446
+2179,20,Kiera Cass,2016.0,"The Crown (The Selection, #5)",3.8,64158
+2182,18,L.J. Smith,2008.0,"Night World, No. 1 (Night World, #1-3)",4.04,54940
+2195,81,Cornelia Funke,2007.0,"Inkdeath (Inkworld, #3)",3.93,53591
+2201,58,Aprilynne Pike,2009.0,"Wings (Wings, #1)",3.75,62566
+2202,86,Cecily von Ziegesar,2002.0,"Gossip Girl (Gossip Girl, #1)",3.51,49670
+2215,71,Judy Blume,1980.0,"Superfudge (Fudge, #3)",3.98,50917
+2217,33,Cynthia Hand,2012.0,"Hallowed (Unearthly, #2)",4.15,58860
+2222,13,Eric Wilson,2008.0,Fireproof,4.47,37258
+2227,37,Lucy Christopher,2009.0,Stolen: A Letter to My Captor,3.93,52435
+2230,74,Lloyd Alexander,1965.0,The Black Cauldron (The Chronicles of Prydain #2),4.13,49138
+2254,27,Marissa Meyer,2015.0,"Fairest (The Lunar Chronicles, #3.5)",4.02,59545
+2265,38,Michael  Grant,2010.0,"Lies (Gone, #3)",4.09,48506
+2267,34,Julie Kagawa,2011.0,"The Iron Knight (The Iron Fey, #4)",4.23,64066
+2270,52,Ann Brashares,2007.0,"Forever in Blue: The Fourth Summer of the Sisterhood (Sisterhood, #4)",3.8,56113
+2278,58,Meg Cabot,2002.0,"All-American Girl (All-American Girl, #1)",3.73,55938
+2280,39,David Levithan,2003.0,Boy Meets Boy,3.85,48960
+2282,38,James Patterson,2009.0,"Max (Maximum Ride, #5)",4.07,57039
+2283,54,Alexandra Adornetto,2010.0,"Halo (Halo, #1)",3.67,56216
+2291,71,"Angie Sage, Mark Zug",2006.0,"Flyte (Septimus Heap, #2)",3.99,54400
+2293,34,Rae Carson,2011.0,"The Girl of Fire and Thorns (Fire and Thorns, #1)",3.81,57551
+2294,32,Ann Aguirre,2011.0,"Enclave (Razorland, #1)",3.92,55155
+2301,63,Patrick Ness,2009.0,"The Ask and the Answer (Chaos Walking, #2)",4.2,45578
+2319,49,Ally Carter,2009.0,"Don't Judge a Girl by Her Cover (Gallagher Girls, #3)",4.2,55517
+2338,34,Pam Muñoz Ryan,2000.0,Esperanza Rising,3.91,49106
+2343,52,Christopher Paul Curtis,1995.0,The Watsons Go to Birmingham - 1963,3.95,44830
+2345,40,Julie Kagawa,2012.0,"The Immortal Rules (Blood of Eden, #1)",4.1,52376
+2358,50,"Kami Garcia, Margaret Stohl",2012.0,"Beautiful Redemption (Caster Chronicles, #4)",3.94,48268
+2377,38,Veronica Rossi,2013.0,"Through the Ever Night (Under the Never Sky, #2)",4.17,54902
+2381,47,James Patterson,2008.0,"The Final Warning (Maximum Ride, #4)",3.86,55993
+2389,58,Anthony Horowitz,2004.0,"Scorpia (Alex Rider, #5)",4.16,44197
+2392,12,Holly Black,2002.0,"Tithe (Modern Faerie Tales, #1)",3.73,57326
+2394,32,L.J. Smith,2007.0,"The Fury / Dark Reunion (The Vampire Diaries, #3-4)",3.74,51745
+2402,50,Sara Shepard,2008.0,"Unbelievable (Pretty Little Liars, #4)",4.06,46722
+2404,56,Rachel Hartman,2012.0,"Seraphina (Seraphina, #1)",3.98,33510
+2417,55,Amanda Hocking,2012.0,"Ascend (Trylle, #3)",4.08,26350
+2420,29,Rick Riordan,2009.0,The Demigod Files (Percy Jackson and the Olympians),4.04,55442
+2428,41,Ally Carter,2010.0,"Only the Good Spy Young (Gallagher Girls, #4)",4.29,51772
+2435,15,Miranda Kenneally,2011.0,Catching Jordan,3.85,50383
+2447,53,Michael Scott,2011.0,"The Warlock (The Secrets of the Immortal Nicholas Flamel, #5)",4.17,41271
+2450,31,Katja Millay,2012.0,The Sea of Tranquility,4.34,52982
+2454,90,Jenny Downham,2007.0,Before I Die,3.84,38551
+2456,42,Sarah Dessen,1999.0,Keeping the Moon,3.86,51537
+2457,13,Veronica Roth,2013.0,"The Transfer (Divergent, #0.1)",4.19,42240
+2463,31,Jennifer A. Nielsen,2012.0,The False Prince (The Ascendance Trilogy #1),4.22,49667
+2475,54,Jean Craighead George,1959.0,"My Side of the Mountain (Mountain, #1)",4.03,47002
+2488,31,Carrie Jones,2008.0,"Need (Need, #1)",3.71,54819
+2529,63,Alyson Noel,2010.0,"Dark Flame (The Immortals, #4)",3.73,51250
+2532,20,Kiera Cass,2013.0,"The Prince (The Selection, #0.5)",3.93,51454
+2533,39,Marie Rutkoski,2014.0,"The Winner's Curse (The Winner's Trilogy, #1)",4.03,56635
+2540,20,Gene Luen Yang,2006.0,American Born Chinese,3.88,47824
+2558,25,Maggie Stiefvater,2014.0,"Blue Lily, Lily Blue (The Raven Cycle, #3)",4.32,56637
+2563,62,Patrick Ness,2010.0,"Monsters of Men (Chaos Walking, #3)",4.25,43024
+2565,26,Brian Selznick,2011.0,Wonderstruck,4.16,42530
+2567,54,Moira Young,2011.0,"Blood Red Road (Dust Lands, #1)",3.94,47690
+2577,37,Libba Bray,2007.0,"The Sweet Far Thing (Gemma Doyle, #3)",3.97,54602
+2593,46,Claudia Gray,2009.0,"Stargazer (Evernight, #2)",3.8,49050
+2599,40,Pittacus Lore,2013.0,"The Fall of Five (Lorien Legacies, #4)",4.24,41533
+2608,48,Tamora Pierce,1986.0,"The Woman Who Rides Like a Man (Song of the Lioness, #3)",4.2,53413
+2611,73,Terry Pratchett,2004.0,"A Hat Full of Sky (Discworld, #32; Tiffany Aching, #2)",4.29,43460
+2619,63,"Angie Sage, Mark Zug",2007.0,"Physik (Septimus Heap, #3)",3.99,42838
+2623,42,Tamora Pierce,1992.0,"Wild Magic (Immortals, #1)",4.32,52165
+2626,42,Renee Ahdieh,2015.0,"The Wrath and the Dawn (The Wrath and the Dawn, #1)",4.19,58175
+2628,55,"Daniel Handler, Maira Kalman",2011.0,Why We Broke Up,3.49,41202
+2634,20,Charlie N. Holmberg,2014.0,"The Paper Magician (The Paper Magician Trilogy, #1)",3.63,25934
+2642,29,Gail Carson Levine,2001.0,The Two Princesses of Bamarre,4.02,55218
+2662,42,Rachel Caine,2007.0,"Midnight Alley (The Morganville Vampires, #3)",4.11,49083
+2684,58,Meg Cabot,2000.0,"Shadowland (The Mediator, #1)",4.04,51580
+2685,38,Sara Shepard,2009.0,"Killer (Pretty Little Liars, #6)",4.07,39702
+2687,40,James Patterson,2010.0,"Fang (Maximum Ride, #6)",4.07,48964
+2695,36,Caroline B. Cooney,1990.0,"The Face on the Milk Carton (Janie Johnson, #1)",3.72,43334
+2697,51,Sophie Jordan,2010.0,"Firelight (Firelight, #1)",3.88,51815
+2705,86,L.J. Smith,1991.0,"The Awakening (The Vampire Diaries, #1)",3.41,44222
+2711,49,Catherine Fisher,2007.0,"Incarceron (Incarceron, #1)",3.64,43524
+2714,47,Josephine Angelini,2011.0,"Starcrossed (Starcrossed, #1)",4.08,49448
+2715,55,Alyson Noel,2010.0,"Night Star (The Immortals, #5)",3.82,43998
+2719,54,John Flanagan,2006.0,"The Sorcerer in the North (Ranger's Apprentice, #5)",4.25,39795
+2725,33,Jennifer Brown,2009.0,Hate List,4.03,39677
+2726,21,Kasie West,2013.0,The Distance Between Us,3.95,44366
+2734,20,Danielle  Paige,2014.0,"Dorothy Must Die (Dorothy Must Die, #1)",3.84,44785
+2743,22,Noelle Stevenson,2015.0,Nimona,4.2,44825
+2759,86,Darren Shan,2000.0,"A Living Nightmare (Cirque Du Freak, #1)",4.07,38753
+2761,32,M.T. Anderson,2002.0,Feed,3.54,42426
+2764,28,Cinda Williams Chima,2009.0,"The Demon King (Seven Realms, #1)",4.2,46756
+2778,17,Lauren Barnholdt,2007.0,Two-Way Street,3.8,42028
+2780,44,John Flanagan,2006.0,"The Siege of Macindaw (Ranger's Apprentice, #6)",4.33,37607
+2783,35,Tamora Pierce,1994.0,"Emperor Mage (Immortals, #3)",4.3,44115
+2785,67,"James Patterson, Gabrielle Charbonnet",2009.0,"Witch & Wizard (Witch & Wizard, #1)",3.57,28291
+2786,71,"Jean Craighead George, John Schoenherr",1972.0,"Julie of the Wolves (Julie of the Wolves, #1)",3.79,46442
+2787,47,Judy Blume,1975.0,Forever . . .,3.63,42164
+2799,42,Joelle Charbonneau,2013.0,"The Testing (The Testing, #1)",4.05,38142
+2802,23,Tamora Pierce,2006.0,"Terrier (Beka Cooper, #1)",4.16,48028
+2805,18,Vera Brosgol,2011.0,Anya's Ghost,3.88,39477
+2812,54,Louise Rennison,2000.0,"On the Bright Side, I'm Now the Girlfriend of a Sex God (Confessions of Georgia Nicolson, #2)",3.96,39114
+2814,67,Laini Taylor,2014.0,"Dreams of Gods & Monsters (Daughter of Smoke & Bone, #3)",4.23,47315
+2821,6,L.M. Montgomery,1917.0,"Anne's House of Dreams (Anne of Green Gables, #5)",4.12,57062
+2836,78,John Marsden,1993.0,"Tomorrow, When the War Began (Tomorrow, #1)",4.05,36501
+2838,60,Ava Dellaira,2014.0,Love Letters to the Dead,3.82,38701
+2845,36,Michael  Grant,2011.0,"Plague (Gone, #4)",4.18,38819
+2861,91,Anthony Horowitz,2001.0,"Point Blank (Alex Rider, #2)",4.1,39296
+2870,39,Sarah Dessen,1996.0,That Summer,3.49,43723
+2876,54,Gayle Forman,2015.0,I Was Here,3.78,38196
+2880,26,Veronica Roth,2013.0,"Divergent Series Complete Box Set (Divergent, #1-3)",4.32,19325
+2896,8,"Raina Telgemeier, Gurihiru",2012.0,Drama,4.14,42759
+2908,36,Robyn Schneider,2013.0,The Beginning of Everything,3.78,35150
+2916,37,Dan Wells,2012.0,"Partials (Partials Sequence, #1)",3.94,42493
+2919,42,Sara Shepard,2008.0,"Wicked (Pretty Little Liars, #5)",4.04,38461
+2929,23,Sara Shepard,2010.0,"Wanted (Pretty Little Liars, #8)",4.15,36207
+2932,48,Libba Bray,2012.0,"The Diviners (The Diviners, #1)",3.96,44513
+2933,38,Tim Tharp,2008.0,The Spectacular Now,3.53,30125
+2935,45,Suzanne Collins,2007.0,"Gregor and the Code of Claw (Underland Chronicles, #5)",4.25,33286
+2941,16,Mary E. Pearson,2014.0,"The Kiss of Deception (The Remnant Chronicles, #1)",4.06,46096
+2954,38,Robin McKinley,1982.0,"The Blue Sword (Damar, #1)",4.24,44806
+2956,7,"Michelle Rowen, Richelle Mead",2011.0,Vampire Academy: The Ultimate Guide (Vampire Academy),4.45,32818
+2959,25,Tamora Pierce,2004.0,"Trickster's Queen (Daughter of the Lioness, #2)",4.28,45843
+2961,43,Rodman Philbrick,1993.0,"Freak the Mighty (Freak The Mighty, #1)",3.98,34587
+2962,40,Jennifer E. Smith,2013.0,"This Is What Happy Looks Like (This is What Happy Looks Like, #1)",3.69,40369
+2968,46,D.J. MacHale,2002.0,"The Merchant of Death (Pendragon, #1)",3.93,38633
+2974,39,James Patterson,2011.0,"Angel (Maximum Ride, #7)",4.02,39938
+2980,35,Patricia McCormick,2006.0,Sold,4.19,36389
+2983,31,"Amie Kaufman, Meagan Spooner",2013.0,"These Broken Stars (Starbound, #1)",3.93,44488
+2984,62,Alison Goodman,2008.0,"Eon: Dragoneye Reborn (Eon, #1)",3.98,42802
+2985,42,E.L. Konigsburg,1996.0,The View from Saturday,3.74,36803
+2986,49,"P.C. Cast, Kristin Cast",2012.0,"Hidden (House of Night, #10)",3.98,38594
+2987,34,Rachel Hawkins,2012.0,"Spell Bound (Hex Hall, #3)",4.09,48116
+2996,25,Kelley Armstrong,2011.0,"The Gathering (Darkness Rising, #1)",4.03,48722
+2997,25,Richelle Mead,2013.0,"The Fiery Heart (Bloodlines, #4)",4.39,49513
+3008,18,Sarah Ockler,2009.0,Twenty Boy Summer,3.89,35435
+3019,34,Robin McKinley,1984.0,"The Hero and the Crown (Damar, #2)",4.21,41796
+3031,49,Alyson Noel,2011.0,"Everlasting (The Immortals, #6)",3.92,38185
+3039,43,Lauren Oliver,2014.0,"Panic (Panic, #1)",3.56,39875
+3044,56,"Angie Sage, Mark Zug",2008.0,"Queste (Septimus Heap, #4)",4.04,40562
+3045,64,Sophie Kinsella,2015.0,Finding Audrey,3.82,38226
+3052,25,Cinda Williams Chima,2006.0,"The Warrior Heir (The Heir Chronicles, #1)",3.95,40346
+3063,96,Susan Cooper,1973.0,"The Dark Is Rising (The Dark is Rising, #2)",4.07,39881
+3083,61,L.J. Smith,2009.0,"Nightfall (The Vampire Diaries: The Return, #1)",3.57,40213
+3084,41,Jeanne DuPrau,2004.0,"The People of Sparks (Book of Ember, #2)",3.65,40859
+3089,65,Anthony Horowitz,2003.0,"Eagle Strike (Alex Rider, #4)",4.11,37051
+3095,8,Richelle Mead,2009.0,"Vampire Academy Collection (Vampire Academy, #1-3)",4.61,30166
+3116,35,Beth Revis,2012.0,"A Million Suns (Across the Universe, #2)",4.04,42620
+3120,62,Lloyd Alexander,1968.0,The High King (The Chronicles of Prydain #5),4.26,41448
+3121,32,Amy Plum,2011.0,"Die for Me (Revenants, #1)",4.0,45756
+3132,19,Gail Carson Levine,2006.0,Fairest,3.86,50719
+3138,187,L.M. Montgomery,1936.0,"Anne of Windy Poplars (Anne of Green Gables, #4)",4.04,47657
+3147,38,Brandon Sanderson,2013.0,"The Rithmatist (The Rithmatist, #1)",4.25,15977
+3154,40,John Flanagan,2007.0,"Erak's Ransom (Ranger's Apprentice, #7)",4.31,34286
+3157,40,John Flanagan,2009.0,"Halt's Peril (Ranger's Apprentice, #9)",4.38,33782
+3160,42,Gabrielle Zevin,2005.0,Elsewhere,3.91,40906
+3164,36,Holly Goldberg Sloan,2013.0,Counting by 7s,4.16,33097
+3165,33,Claudia Gray,2010.0,"Hourglass (Evernight, #3)",3.8,38662
+3170,20,Cory Doctorow,2008.0,Little Brother,3.94,36779
+3176,47,Rachel Caine,2007.0,"The Dead Girls' Dance (The Morganville Vampires, #2)",4.06,46247
+3179,53,Suzanne Collins,2005.0,"Gregor and the Curse of the Warmbloods (Underland Chronicles, #3)",4.2,31854
+3206,30,Jane Yolen,1988.0,The Devil's Arithmetic,4.04,39419
+3218,45,Lisa McMann,2009.0,"Fade (Wake, #2)",3.95,42540
+3221,35,Ingrid Law,2008.0,"Savvy (Savvy, #1)",3.96,37593
+3226,28,"L.J. Smith, Kevin Williamson, Julie Plec",2011.0,"The Ripper (The Vampire Diaries: Stefan's Diaries, #4)",4.22,27432
+3228,45,Ruta Sepetys,2016.0,Salt to the Sea,4.36,39406
+3238,23,Libba Bray,2011.0,Beauty Queens,3.6,39455
+3244,29,Tamora Pierce,2004.0,"Trickster's Choice (Daughter of the Lioness, #1)",4.27,42252
+3245,20,Rosamund Hodge,2014.0,"Cruel Beauty (Cruel Beauty Universe, #1)",3.74,45721
+3249,35,Brandon Sanderson,2016.0,"Calamity (The Reckoners, #3)",4.2,27146
+3260,11,Chanda Hahn,2011.0,"UnEnchanted (An Unfortunate Fairy Tale, #1)",3.89,35287
+3263,28,Simone Elkeles,2011.0,"Chain Reaction (Perfect Chemistry, #3)",4.12,47773
+3271,46,Melissa Marr,2008.0,"Ink Exchange (Wicked Lovely, #2)",3.68,48264
+3276,66,Anthony Horowitz,2002.0,"Skeleton Key (Alex Rider, #3)",4.06,37232
+3283,68,Candace Bushnell,2010.0,"The Carrie Diaries (The Carrie Diaries, #1)",3.57,30468
+3285,3,Veronica Roth,2013.0,"The World of Divergent: The Path to Allegiant (Divergent, #2.5)",3.98,25327
+3289,26,Ellen Schreiber,2003.0,"Vampire Kisses (Vampire Kisses, #1)",3.69,43323
+3318,27,Caragh M. O'Brien,2010.0,"Birthmarked (Birthmarked, #1)",3.89,37656
+3319,77,"Derek Landy, Tom Percival",2007.0,"Skulduggery Pleasant (Skulduggery Pleasant, #1)",4.21,32785
+3326,38,Rachel Caine,2009.0,"Carpe Corpus (The Morganville Vampires, #6)",4.21,41536
+3328,33,Madeleine Roux,2013.0,"Asylum (Asylum, #1)",3.64,29687
+3332,30,Holly Black,2013.0,The Coldest Girl in Coldtown,3.86,37682
+3336,41,Rachel Caine,2008.0,"Feast of Fools (The Morganville Vampires, #4)",4.17,43435
+3337,35,Neal Shusterman,2012.0,"UnWholly (Unwind, #2)",4.25,33679
+3339,51,Eoin Colfer,2010.0,"The Atlantis Complex (Artemis Fowl, #7)",3.97,39307
+3345,55,Becky Albertalli,2015.0,Simon vs. the Homo Sapiens Agenda,4.26,53570
+3347,22,A.G. Howard,2013.0,"Splintered (Splintered, #1)",3.96,37225
+3350,19,Cinda Williams Chima,2007.0,"The Wizard Heir (The Heir Chronicles, #2)",4.14,33653
+3365,32,Sara Shepard,2010.0,"Heartless (Pretty Little Liars, #7)",4.1,32754
+3368,14,Emily Carroll,2014.0,Through the Woods,3.92,32781
+3369,49,Anthony Horowitz,2005.0,"Ark Angel (Alex Rider, #6)",4.11,33935
+3372,22,Sarah Dessen,2015.0,Saint Anything,4.05,35111
+3375,74,V.C. Andrews,1981.0,"If There Be Thorns (Dollanganger, #3)",3.75,33086
+3389,69,"Zoe Sugg, Siobhan Curham",2014.0,"Girl Online (Girl Online, #1)",3.77,37177
+3411,24,Kimberly Derting,2010.0,"The Body Finder (The Body Finder, #1)",3.96,43203
+3414,55,Anne McCaffrey,1976.0,"Dragonsong (Harper Hall, #1)",4.24,35694
+3415,21,Nancy Garden,1982.0,Annie on My Mind,3.97,29278
+3418,40,Malorie Blackman,2001.0,"Noughts & Crosses (Noughts & Crosses, #1)",4.23,27725
+3420,45,Michael Scott,2012.0,"The Enchantress (The Secrets of the Immortal Nicholas Flamel, #6)",4.24,30171
+3430,29,Sara Shepard,2010.0,"The Lying Game (The Lying Game, #1)",3.96,32296
+3439,44,Gennifer Choldenko,2004.0,"Al Capone Does My Shirts (Al Capone at Alcatraz, #1)",3.83,33400
+3441,24,Maggie Stiefvater,2016.0,"The Raven King (The Raven Cycle, #4)",4.32,42427
+3444,4,Megan Whalen Turner,1996.0,"The Thief (The Queen's Thief, #1)",3.92,40807
+3452,94,Meg Cabot,2001.0,"Princess in the Spotlight (The Princess Diaries, #2)",3.67,41713
+3453,20,Anna Banks,2012.0,"Of Poseidon (The Syrena Legacy, #1)",4.04,38535
+3473,17,L.J. Smith,1991.0,"Dark Visions (Dark Visions, #1-3)",4.19,33023
+3486,56,L.J. Smith,2010.0,"Shadow Souls (The Vampire Diaries: The Return, #2)",3.79,31445
+3487,26,Susane Colasanti,2006.0,When It Happens,3.74,32443
+3497,26,Tamora Pierce,1999.0,"First Test (Protector of the Small, #1)",4.24,40036
+3498,37,Melina Marchetta,2006.0,On the Jellicoe Road,4.15,33398
+3518,96,Sue Townsend,1982.0,"The Secret Diary of Adrian Mole, Aged 13 3/4  (Adrian Mole, #1)",3.85,28952
+3536,23,Tamora Pierce,2002.0,"Lady Knight (Protector of the Small, #4)",4.3,37403
+3547,64,Terry Pratchett,2006.0,"Wintersmith (Discworld, #35; Tiffany Aching, #3)",4.22,33917
+3557,48,Michelle Magorian,1981.0,"Good Night, Mr. Tom",4.28,24828
+3558,29,Tabitha Suzuma,2010.0,Forbidden,4.06,37204
+3562,29,Brian Jacques,1993.0,"Martin the Warrior (Redwall, #6)",4.13,34640
+3563,22,Cinda Williams Chima,2010.0,"The Exiled Queen (Seven Realms, #2)",4.34,33789
+3577,78,Darren Shan,2000.0,"The Vampire's Assistant (Cirque Du Freak, #2)",4.12,29943
+3580,475,Louisa May Alcott,1871.0,"Little Men (Little Women, #2)",3.84,36501
+3583,91,Meg Cabot,2001.0,"Princess in Love (The Princess Diaries, #3)",3.76,39306
+3592,61,Kerstin Gier,2010.0,"Smaragdgrün (Edelstein-Trilogie, #3)",4.2,22620
+3593,30,"Shannon Hale, James Noel Smith",2007.0,Book of a Thousand Days,3.95,40060
+3613,64,Chaim Potok,1972.0,My Name Is Asher Lev,4.19,29273
+3617,21,Carrie Jones,2010.0,"Captivate (Need, #2)",3.94,36772
+3626,36,Mary E. Pearson,2008.0,"The Adoration of Jenna Fox (Jenna Fox Chronicles, #1)",3.7,36754
+3627,37,John Flanagan,2011.0,"The Emperor of Nihon-Ja (Ranger's Apprentice, #10)",4.42,29397
+3636,22,Christopher Paolini,2008.0,"Eragon, Eldest & Brisingr (Inheritance, #1-3)",4.2,25623
+3648,34,Tamora Pierce,1993.0,"Wolf-Speaker (Immortals, #2)",4.21,37448
+3652,79,"Joseph Delaney, Patrick  Arrasmith",2004.0,"Revenge of the Witch (The Last Apprentice / Wardstone Chronicles, #1)",3.97,27305
+3655,30,Morgan Matson,2012.0,Second Chance Summer,4.16,31983
+3657,66,Robert Cormier,1974.0,"The Chocolate War (Chocolate War, #1)",3.48,31633
+3663,25,Tamora Pierce,2001.0,"Squire (Protector of the Small, #3)",4.27,37110
+3664,49,Anthony Horowitz,2007.0,"Snakehead (Alex Rider, #7)",4.15,32743
+3665,33,Ally Carter,2012.0,"Out of Sight, Out of Time (Gallagher Girls, #5)",4.35,39918
+3677,24,Cinda Williams Chima,2011.0,"The Gray Wolf Throne (Seven Realms, #3)",4.39,31763
+3687,39,Rachel Caine,2008.0,"Lord of Misrule (The Morganville Vampires, #5)",4.18,38874
+3712,59,Suzanne Collins,2004.0,"Gregor and the Prophecy of Bane (Underland Chronicles, #2)",4.17,29586
+3714,36,Maureen Johnson,2011.0,"The Name of the Star (Shades of London, #1)",3.9,22842
+3718,26,Laurie Halse Anderson,2008.0,"Chains (Seeds of America, #1)",4.09,32493
+3721,18,Julie Anne Peters,2007.0,Keeping You a Secret,3.98,25864
+3723,31,E. Lockhart,2008.0,The Disreputable History of Frankie Landau-Banks,3.82,35300
+3728,28,Frank Beddor,2004.0,"The Looking Glass Wars (The Looking Glass Wars, #1)",3.93,34581
+3739,41,Madeleine L'Engle,1986.0,"Many Waters (A Wrinkle in Time Quintet, #4)",4.01,33049
+3742,98,Michael Morpurgo,1982.0,"War Horse (War Horse, #1)",4.13,24952
+3753,6,J.K. Rowling,2005.0,"Harry Potter Collection (Harry Potter, #1-6)",4.73,24618
+3769,51,Jenny Nimmo,2002.0,"Midnight for Charlie Bone (The Children of the Red King, #1)",3.79,32917
+3770,37,"Amie Kaufman, Jay Kristoff",2015.0,"Illuminae (The Illuminae Files, #1)",4.32,44500
+3777,35,Michael  Grant,2012.0,"Fear (Gone, #5)",4.25,33178
+3781,27,Aimee Carter,2011.0,"The Goddess Test (Goddess Test, #1)",3.83,44328
+3783,21,Anna Carey,2011.0,"Eve (Eve, #1)",3.69,34746
+3790,33,Karen Cushman,1995.0,The Midwife's Apprentice,3.71,33217
+3793,26,Richelle Mead,2014.0,"Silver Shadows (Bloodlines, #5)",4.37,38152
+3796,10,Ellen Hopkins,2009.0,"Tricks (Tricks, #1)",4.29,28687
+3826,70,Susan Cooper,1965.0,"Over Sea, Under Stone (The Dark Is Rising, #1)",3.85,34020
+3830,30,Sharon Creech,2001.0,"Love That Dog (Jack, #1)",4.01,30254
+3846,31,"Jodi Picoult, Samantha van Leer",2012.0,"Between the Lines (Between the Lines, #1)",3.58,29791
+3860,29,"Patricia C. Wrede, Peter de Sève",1991.0,"Searching for Dragons (Enchanted Forest Chronicles, #2)",4.25,35016
+3862,27,"Rachel Caine, Cynthia Holloway",2010.0,"Kiss of Death (The Morganville Vampires, #8)",4.22,33464
+3871,52,Judy Blume,1972.0,Otherwise Known as Sheila the Great (Fudge #2),3.94,31847
+3879,41,Gayle Forman,2013.0,"Just One Year (Just One Day, #2)",3.9,31517
+3886,41,Theodore Taylor,1969.0,"The Cay (The Cay, #1)",3.74,25832
+3888,14,Justina Chen,2009.0,North of Beautiful,3.92,32034
+3895,22,Julia Hoban,2009.0,Willow,3.94,28342
+3901,58,Lissa Price,2012.0,"Starters (Starters, #1)",3.91,32143
+3904,166,L.M. Montgomery,1939.0,"Anne of Ingleside (Anne of Green Gables, #6)",4.05,36641
+3910,42,"Dave Barry, Ridley Pearson, Greg Call",2006.0,"Peter and the Shadow Thieves (Peter and the Starcatchers, #2)",4.15,29555
+3919,24,Laurie Halse Anderson,2007.0,Twisted,3.83,29573
+3943,24,Simone Elkeles,2007.0,"Leaving Paradise (Leaving Paradise, #1)",4.02,37323
+3947,38,"Trenton Lee Stewart, Diana Sudyka",2008.0,"The Mysterious Benedict Society and the Perilous Journey (The Mysterious Benedict Society, #2)",4.19,31395
+3956,30,Lauren DeStefano,2012.0,"Fever (The Chemical Garden, #2)",3.79,37188
+3968,41,Eoin Colfer,2012.0,"The Last Guardian (Artemis Fowl, #8)",4.15,34459
+3970,28,Rachel Caine,2010.0,"Ghost Town (The Morganville Vampires, #9)",4.27,31362
+3974,45,Anne McCaffrey,1977.0,"Dragonsinger (Harper Hall, #2)",4.26,31874
+3991,27,Sarah Weeks,2004.0,So B. It,4.1,26658
+3992,30,Margaret Peterson Haddix,2008.0,"Found (The Missing, #1)",3.97,30807
+3999,26,Brandon Mull,2011.0,"A World Without Heroes (Beyonders, #1)",4.07,27160
+4000,43,John Flanagan,2008.0,"The Kings of Clonmel (Ranger's Apprentice, #8)",4.29,30299
+4002,43,Pittacus Lore,2014.0,"The Revenge of Seven (Lorien Legacies, #5)",4.28,26075
+4007,24,Melissa de la Cruz,2010.0,"Misguided Angel (Blue Bloods, #5)",3.93,33454
+4014,137,L.M. Montgomery,1923.0,"Emily of New Moon (Emily, #1)",4.09,33317
+4021,40,"Jay Asher, Carolyn Mackler",2011.0,The Future of Us,3.58,32986
+4024,20,Suzanne Young,2013.0,"The Program (The Program, #1)",4.07,30517
+4028,15,Jennifer Echols,2009.0,Going Too Far,3.93,35071
+4033,24,Sarah Dessen,2013.0,The Moon and More,3.63,29896
+4036,50,"Kathy Reichs, Brendan Reichs",2010.0,"Virals (Virals, #1)",3.94,30226
+4052,62,V.C. Andrews,1984.0,"Seeds of Yesterday (Dollanganger, #4)",3.81,27307
+4068,352,Jean Webster,1912.0,"Daddy-Long-Legs (Daddy-Long-Legs, #1)",4.09,20889
+4069,26,Edith Pattou,2003.0,East,4.14,30596
+4076,36,Melissa Marr,2009.0,"Fragile Eternity (Wicked Lovely, #3)",3.83,37303
+4087,42,Meg Cabot,2005.0,Avalon High,3.8,37402
+4088,35,Stephenie Meyer,2011.0,"The Twilight Saga: The Official Illustrated Guide (Twilight, #4.5)",4.23,24065
+4092,19,Megan McCafferty,2001.0,"Sloppy Firsts (Jessica Darling, #1)",3.94,31757
+4093,37,Matthew Quick,2013.0,"Forgive Me, Leonard Peacock",3.93,27647
+4094,31,Richard Peck,1998.0,"A Long Way from Chicago (A Long Way from Chicago, #1)",3.92,27642
+4097,17,"Mariko Tamaki, Jillian Tamaki",2014.0,This One Summer,3.67,29592
+4114,25,Lisi Harrison,2004.0,"The Clique (The Clique, #1)",3.6,27783
+4125,18,Cinda Williams Chima,2008.0,"The Dragon Heir (The Heir Chronicles, #3)",4.14,28845
+4126,11,Ellen Hopkins,2010.0,"Fallout (Crank, #3)",4.29,25592
+4132,66,Darren Shan,2000.0,"Tunnels of Blood (Cirque Du Freak, #3)",4.14,26287
+4135,18,Michelle Hodkin,2014.0,"The Retribution of Mara Dyer (Mara Dyer, #3)",4.14,35910
+4142,25,Ally Carter,2011.0,"Uncommon Criminals (Heist Society, #2)",4.15,35104
+4143,14,Kasie West,2014.0,On the Fence,4.04,30934
+4145,31,Jerry Spinelli,2007.0,"Love, Stargirl (Stargirl, #2)",3.8,30515
+4156,28,Rachel Vincent,2009.0,"My Soul to Take (Soul Screamers, #1)",3.88,35680
+4158,26,Brodi Ashton,2012.0,"Everneath (Everneath, #1)",3.76,36153
+4165,22,Kasie West,2015.0,The Fill-In Boyfriend,3.92,31656
+4166,74,Meg Rosoff,2004.0,How I Live Now,3.58,28896
+4167,39,Garth Nix,2003.0,"Mister Monday (The Keys to the Kingdom, #1)",3.77,28430
+4188,49,Karen Cushman,1994.0,"Catherine, Called Birdy",3.7,31185
+4193,18,Rae Carson,2012.0,"The Crown of Embers (Fire and Thorns, #2)",4.2,32885
+4194,23,Tamora Pierce,2000.0,"Page (Protector of the Small, #2)",4.22,33405
+4195,14,Kiera Cass,2014.0,"The Guard (The Selection, #2.5)",3.75,32401
+4196,58,"Esther Forbes, Lynd Ward",1943.0,Johnny Tremain,3.62,30157
+4204,48,Aprilynne Pike,2009.0,"Spells (Wings, #2)",3.99,34331
+4214,38,Linda Sue Park,2001.0,A Single Shard,3.87,27345
+4223,25,Melissa Marr,2010.0,"Radiant Shadows (Wicked Lovely, #4)",3.97,33385
+4226,35,Veronica Rossi,2014.0,"Into the Still Blue (Under the Never Sky, #3)",4.17,33983
+4230,40,D.J. MacHale,2003.0,"The Lost City of Faar (Pendragon, #2)",4.16,25401
+4233,25,Shannon Hale,2004.0,"Enna Burning (The Books of Bayern, #2)",3.97,31710
+4234,38,Meg Cabot,2005.0,"Twilight (The Mediator, #6)",4.26,32489
+4236,59,"Beverly Cleary, Paul O. Zelinsky",1983.0,"Dear Mr. Henshaw (Leigh Botts, #1)",3.7,28979
+4255,48,Sabaa Tahir,2016.0,"A Torch Against the Night (An Ember in the Ashes, #2)",4.34,30535
+4256,25,Gary D. Schmidt,2007.0,The Wednesday Wars,4.06,26847
+4275,60,Lloyd Alexander,1967.0,Taran Wanderer (The Chronicles of Prydain #4),4.14,29544
+4279,24,Susan Beth Pfeffer,2008.0,"The Dead and the Gone (Last Survivors, #2)",3.84,28910
+4288,43,Jennifer Donnelly,2003.0,A Northern Light,3.83,29018
+4297,2,Harry Gregson-Williams,2006.0,"Piano/Vocal/Guitar Sheet Music: The Chronicles of Narnia: The Lion, the Witch and The Wardrobe",4.32,17866
+4299,26,Marie Rutkoski,2015.0,"The Winner's Crime (The Winner's Trilogy, #2)",4.17,31721
+4311,23,Margaret Peterson Haddix,1999.0,"Just Ella (The Palace Chronicles, #1)",3.75,27884
+4314,15,Kate Brian,2005.0,Megan Meade's Guide to the McGowan Boys,3.93,29726
+4318,38,Patrick Ness,2013.0,More Than This,4.03,21512
+4329,25,Jonathan Maberry,2010.0,"Rot & Ruin (Rot & Ruin, #1)",4.1,25526
+4339,43,Colleen Houck,2011.0,"Tiger's Quest (The Tiger Saga, #2)",4.34,28303
+4343,41,Anna Godbersen,2008.0,"Rumors (Luxe, #2)",3.85,31018
+4345,83,Meg Cabot,2002.0,"Princess in Waiting (The Princess Diaries, #4)",3.66,33327
+4350,24,Claudia Gray,2014.0,"A Thousand Pieces of You (Firebird, #1)",3.94,28422
+4351,26,Patricia Reilly Giff,2002.0,Pictures of Hollis Woods,4.0,23708
+4355,33,Heather Brewer,2007.0,"Eighth Grade Bites (The Chronicles of Vladimir Tod, #1)",3.92,28119
+4357,33,Annette Curtis Klause,1997.0,Blood and Chocolate,3.77,33500
+4372,38,Barry Lyga,2012.0,"I Hunt Killers (Jasper Dent, #1)",4.02,25487
+4381,45,Nicola Yoon,2016.0,The Sun Is Also a Star,4.14,42363
+4393,35,Bree Despain,2009.0,"The Dark Divine (The Dark Divine, #1)",3.81,33209
+4396,23,"Patricia C. Wrede, Peter de Sève",1993.0,"Calling on Dragons (Enchanted Forest Chronicles, #3)",4.2,33925
+4408,31,Josephine Angelini,2012.0,"Dreamless (Starcrossed, #2)",4.2,30424
+4424,24,Sherrilyn Kenyon,2010.0,"Infinity (Chronicles of Nick, #1)",4.04,31598
+4436,22,Sara Shepard,2011.0,"Twisted (Pretty Little Liars, #9)",4.05,24251
+4445,66,Lloyd Alexander,1966.0,The Castle of Llyr (The Chronicles of Prydain #3),4.07,27425
+4446,30,Rachel Caine,2009.0,"Fade Out (The Morganville Vampires, #7)",4.2,32918
+4456,56,Lauren Kate,2012.0,"Fallen in Love (Fallen, #3.5)",3.77,30759
+4458,32,D.J. MacHale,2003.0,"The Never War (Pendragon, #3)",4.12,24219
+4460,41,Brian Jacques,1990.0,"Mattimeo (Redwall, #3)",4.02,26345
+4474,72,Sally Green,2014.0,"Half Bad (The Half Bad Trilogy, #1)",3.8,26913
+4476,52,"William H. Armstrong, James Barkley",1969.0,Sounder,3.96,24061
+4492,42,"Scott Westerfeld, Keith Thompson",2010.0,"Behemoth (Leviathan, #2)",4.18,30049
+4514,56,Darren Shan,2001.0,"Vampire Mountain (Cirque Du Freak, #4)",4.16,23847
+4525,46,Elizabeth George Speare,1983.0,The Sign of the Beaver,3.77,20450
+4534,53,Susan Cooper,1977.0,"Silver on the Tree (The Dark is Rising, #5)",4.16,25818
+4541,13,Gary D. Schmidt,2011.0,Okay for Now,4.19,24254
+4559,23,Carrie Jones,2010.0,"Entice (Need, #3)",4.03,28584
+4562,19,Melissa Marr,2011.0,"Darkest Mercy (Wicked Lovely, #5)",4.11,29069
+4572,51,Kass Morgan,2013.0,"The 100 (The 100, #1)",3.56,26762
+4573,51,Alexandra Adornetto,2011.0,"Hades (Halo, #2)",3.97,27679
+4577,21,Gabrielle Zevin,2007.0,Memoirs of a Teenage Amnesiac,3.7,28373
+4578,31,"Brian Jacques, Gary Chalk",1992.0,"Salamandastron (Redwall, #5)",4.05,23723
+4580,29,Holly Black,2007.0,"Ironside (Modern Faerie Tales, #3)",4.04,29416
+4581,34,Melina Marchetta,2008.0,"Finnikin of the Rock (Lumatere Chronicles, #1)",3.93,29401
+4587,27,Kiersten White,2011.0,"Supernaturally (Paranormalcy, #2)",3.92,32807
+4596,21,Richard Paul Evans,2011.0,"The Prisoner of Cell 25 (Michael Vey, #1)",4.19,24672
+4599,16,Cinda Williams Chima,2012.0,"The Crimson Crown (Seven Realms, #4)",4.48,27279
+4612,24,"Edward Bloor, Danny De Vito",1997.0,Tangerine,3.61,23053
+4623,24,Rysa Walker,2012.0,"Timebound (The Chronos Files, #1)",3.87,22031
+4644,51,Alison Goodman,2011.0,"Eona: The Last Dragoneye (Eon, #2)",4.12,29756
+4645,292,Louisa May Alcott,1874.0,"Eight Cousins (Eight Cousins, #1)",4.02,27612
+4650,58,Susan Cooper,1975.0,"The Grey King (The Dark Is Rising, #4)",4.18,28027
+4655,5,Claire LaZebnik,2011.0,Epic Fail,3.73,29207
+4665,28,D.J. MacHale,2007.0,"The Pilgrims of Rayne (Pendragon, #8)",4.14,21540
+4667,32,Anthony Horowitz,2011.0,Scorpia Rising (Alex Rider #9),4.29,23268
+4669,54,Meg Cabot,2008.0,"Forever Princess (The Princess Diaries, #10)",4.08,28127
+4675,43,Anthony Horowitz,2009.0,"Crocodile Tears (Alex Rider, #8)",4.18,23068
+4698,282,L.M. Montgomery,1921.0,"Rilla of Ingleside (Anne of Green Gables, #8)",4.16,29277
+4705,23,Ann Aguirre,2012.0,"Outpost (Razorland, #2)",4.12,25650
+4710,31,Gail Carriger,2013.0,"Etiquette & Espionage (Finishing School, #1)",3.79,29821
+4712,29,Tamora Pierce,1997.0,"Sandry's Book (Circle of Magic, #1)",3.99,30169
+4720,49,Suzanne Collins,2006.0,"Gregor and the Marks of Secret (Underland Chronicles, #4)",4.21,23727
+4745,22,Brandon Sanderson,2013.0,"Mitosis (The Reckoners, #1.5)",3.87,17250
+4750,22,Linda Sue Park,2010.0,A Long Walk to Water: Based on a True Story,4.23,21593
+4751,33,Michael  Grant,2013.0,"Light (Gone, #6)",4.4,23730
+4761,19,C.C. Hunter,2012.0,"Whispers at Moonrise (Shadow Falls, #4)",4.38,28430
+4770,27,David Levithan,2013.0,Two Boys Kissing,4.11,24587
+4775,17,Tamora Pierce,2009.0,"Bloodhound (Beka Cooper, #2)",4.26,29414
+4782,48,Angie Sage,2009.0,"Syren (Septimus Heap, #5)",4.1,25245
+4800,47,Clive Barker,1992.0,The Thief of Always,4.18,19799
+4815,45,Judy Blume,1974.0,Blubber,3.78,25402
+4819,32,Meg Cabot,2008.0,"Airhead (Airhead, #1)",3.77,32457
+4821,29,Beth Fantaskey,2000.0,"Jessica's Guide to Dating on the Dark Side (Jessica, #1)",3.85,32763
+4830,27,Richelle Mead,2015.0,"The Ruby Circle (Bloodlines, #6)",4.22,29260
+4907,20,Mike Lupica,2006.0,Heat,3.97,16579
+4911,23,"Rick Riordan, Tk",2009.0,"Percy Jackson and the Olympians Boxed Set (Percy Jackson and the Olympians, #1-5)",4.57,19555
+4916,59,Darren Shan,2001.0,"Trials of Death (Cirque Du Freak, #5)",4.25,22157
+4925,54,Terry Pratchett,2008.0,Nation,4.05,22466
+4934,27,Kathryn Erskine,2010.0,Mockingbird,4.18,21138
+4937,25,Zilpha Keatley Snyder,1967.0,"The Egypt Game (Game, #1)",3.81,26657
+4950,45,Ruta Sepetys,2013.0,Out of the Easy,4.05,25913
+4965,43,S.E. Hinton,1971.0,"That Was Then, This Is Now",3.89,22946
+4977,27,Ann Brashares,2011.0,"Sisterhood Everlasting (Sisterhood, #5)",3.9,25849
+4985,25,"Patricia C. Wrede, Peter de Sève",1985.0,"Talking to Dragons (Enchanted Forest Chronicles, #4)",4.19,27948
+4987,36,"Neil Gaiman, Chris Riddell",2014.0,The Sleeper and the Spindle,3.9,20889
+5016,35,Neal Shusterman,2006.0,"Everlost (Skinjacker, #1)",3.94,24506
+5018,63,"John Grisham, Richard Thomas",2010.0,"Theodore Boone: Kid Lawyer (Theodore Boone, #1)",3.72,19284
+5020,30,Richard Peck,2000.0,"A Year Down Yonder (A Long Way from Chicago, #2)",4.1,23310
+5022,106,Carlos Ruiz Zafón,1999.0,Marina,3.99,18260
+5025,42,Colleen Houck,2011.0,"Tiger's Voyage (The Tiger Saga, #3)",4.35,24495
+5029,45,Louise Rennison,2001.0,"Knocked Out by My Nunga-Nungas (Confessions of Georgia Nicolson, #3)",3.97,24077
+5032,20,Libba Bray,2009.0,Going Bovine,3.65,26259
+5034,36,Carrie Ryan,2010.0,"The Dead-Tossed Waves (The Forest of Hands and Teeth, #2)",3.91,26347
+5036,30,Clare Vanderpool,2010.0,Moon Over Manifest,4.02,23298
+5038,3,"Jessica Anthony, Rodrigo Corral",2012.0,Chopsticks,3.72,18375
+5040,46,James Dashner,2013.0,"The Eye of Minds (The Mortality Doctrine, #1)",3.85,22637
+5045,93,"Isabel Allende, Margaret Sayers Peden",2002.0,"City of the Beasts (Eagle and Jaguar, #1)",3.69,15497
+5048,45,Meg Cabot,2003.0,"Haunted (The Mediator, #5)",4.15,29460
+5049,45,Anne McCaffrey,1979.0,"Dragondrums (Harper Hall, #3)",4.04,25473
+5078,30,Lauren Conrad,2009.0,"L.A. Candy (L.A. Candy, #1)",3.36,21910
+5079,47,Kiera Cass,2009.0,The Siren,3.78,21740
+5085,40,Patrick Ness,2015.0,The Rest of Us Just Live Here,3.76,23412
+5105,31,Jennifer E. Smith,2014.0,The Geography of You and Me,3.68,22368
+5106,46,L.A. Weatherly,2010.0,"Angel (Angel, #1)",3.89,22262
+5107,23,Brandon Mull,2012.0,"Seeds of Rebellion (Beyonders, #2)",4.25,20291
+5118,17,Marissa Meyer,2016.0,"Stars Above (The Lunar Chronicles, #4.5)",4.27,29333
+5136,30,D.J. MacHale,2005.0,"The Rivers of Zadaa (Pendragon, #6)",4.19,20264
+5148,12,Courtney Allison Moulton,2011.0,"Angelfire (Angelfire, #1)",3.93,27704
+5159,66,Darren Shan,2002.0,"The Vampire Prince (Cirque Du Freak, #6)",4.23,20877
+5169,11,Ellen Hopkins,2011.0,"Perfect (Impulse, #2)",4.35,21089
+5184,39,"Stephanie Perkins, Holly Black, Ally Carter, Matt de la Pena, Gayle Forman, Jenny Han, David Levithan, Kelly Link, Myra McEntire, Rainbow Rowell, Laini Taylor, Kiersten White",2014.0,My True Love Gave to Me: Twelve Holiday Stories,3.73,22480
+5193,17,Melissa de la Cruz,2011.0,"Lost in Time (Blue Bloods, #6)",4.05,23154
+5194,49,Meg Cabot,2001.0,"Ninth Key (The Mediator, #2)",4.07,29922
+5199,46,Jacqueline Kelly,2009.0,"The Evolution of Calpurnia Tate (Calpurnia Tate, #1)",3.97,22291
+5200,18,Katie Alender,2009.0,"Bad Girls Don't Die (Bad Girls Don't Die, #1)",4.07,18862
+5221,19,Shannon Hale,2006.0,"River Secrets (The Books of Bayern, #3)",4.03,27399
+5224,40,Aprilynne Pike,2011.0,"Illusions (Wings, #3)",4.12,26291
+5259,35,Marissa Meyer,2016.0,Heartless,4.06,33348
+5260,44,Paul Zindel,1968.0,"The Pigman (The Pigman, #1)",3.58,21278
+5262,33,Meg Cabot,2011.0,"Abandon (Abandon, #1)",3.71,30934
+5267,38,Robert Muchamore,2004.0,"The Recruit (Cherub, #1)",4.22,19679
+5271,32,Amanda Hocking,2010.0,"My Blood Approves (My Blood Approves, #1)",3.83,21707
+5278,18,Simone Elkeles,2010.0,"Return to Paradise (Leaving Paradise, #2)",4.05,29043
+5279,39,Jasmine Warga,2015.0,My Heart and Other Black Holes,4.02,22311
+5281,31,Heather Brewer,2008.0,"Ninth Grade Slays (The Chronicles of Vladimir Tod, #2)",4.14,20198
+5308,31,Joelle Charbonneau,2014.0,"Independent Study (The Testing, #2)",3.97,20593
+5320,26,A.S. King,2010.0,Please Ignore Vera Dietz,3.91,21728
+5321,57,"Joseph Delaney, Patrick  Arrasmith",2005.0,"Curse of the Bane (The Last Apprentice / Wardstone Chronicles, #2)",4.1,18513
+5322,72,L.J. Smith,1991.0,"The Struggle (The Vampire Diaries, #2)",3.5,23840
+5328,29,Jennifer A. Nielsen,2013.0,"The Runaway King (The Ascendance Trilogy, #2)",4.23,24032
+5338,19,Susan Beth Pfeffer,2010.0,"This World We Live In (Last Survivors, #3)",3.81,23711
+5342,59,"James Patterson, Ned Rust",2010.0,"The Gift (Witch & Wizard, #2)",3.78,17070
+5345,35,Holly Black,2010.0,"White Cat (Curse Workers, #1)",3.81,29444
+5350,32,Lauren Oliver,2015.0,Vanishing Girls,3.59,19508
+5352,39,"Angie Sage, Mark Zug",2011.0,"Darke (Septimus Heap, #6)",4.23,21322
+5362,22,Susane Colasanti,2009.0,Waiting For You,3.84,20236
+5372,50,Meg Cabot,2001.0,"Reunion (The Mediator, #3)",4.09,28944
+5383,40,Meg Cabot,2001.0,"Darkest Hour (The Mediator, #4)",4.16,28104
+5390,26,D.J. MacHale,2009.0,"The Soldiers of Halla (Pendragon, #10)",4.27,19502
+5391,35,E. Lockhart,2005.0,"The Boyfriend List: 15 Guys, 11 Shrink Appointments, 4 Ceramic Frogs and Me, Ruby Oliver (Ruby Oliver, #1)",3.49,22687
+5393,7,Veronica Roth,2014.0,"The Initiate (Divergent, #0.2)",4.2,15505
+5402,75,Meg Cabot,2003.0,"Princess in Pink (The Princess Diaries, #5)",3.69,27057
+5403,18,Ellen Schreiber,2008.0,"The Coffin Club (Vampire Kisses, #5)",4.06,22257
+5406,19,Catherine Gilbert Murdock,2006.0,"Dairy Queen (Dairy Queen, #1)",3.73,23306
+5432,16,Malinda Lo,2009.0,Ash,3.62,14513
+5434,14,Megan McCafferty,2003.0,"Second Helpings (Jessica Darling, #2)",4.08,23180
+5436,25,Carolyn Mackler,2003.0,"The Earth, My Butt, and Other Big Round Things",3.77,21129
+5440,22,Andrew Clements,2002.0,"Things Not Seen (Things, #1)",3.88,21478
+5444,51,Eoin Colfer,2004.0,The Supernaturalist,3.85,23010
+5452,14,Gordon Korman,2000.0,Schooled,3.82,20411
+5455,38,Gary Paulsen,1996.0,"Brian's Winter (Brian's Saga, #3)",3.98,16861
+5458,308,Louisa May Alcott,1886.0,"Jo's Boys (Little Women, #3)",3.8,23877
+5463,55,Susan Cooper,1974.0,"Greenwitch (The Dark Is Rising, #3)",4.0,21364
+5465,18,Elizabeth Chandler,1995.0,"Kissed by an Angel/The Power of Love/Soulmates (Kissed by an Angel, #1-3)",4.08,21813
+5469,65,Clive Barker,2002.0,"Abarat (Abarat, #1)",4.08,20460
+5473,36,Claudia Gray,2011.0,"Afterlife (Evernight, #4)",3.8,23780
+5474,78,Nick Hornby,2007.0,Slam,3.27,17393
+5475,23,Robin LaFevers,2013.0,"Dark Triumph (His Fair Assassin, #2)",4.15,28133
+5476,13,Kwame Alexander,2014.0,The Crossover,4.22,21249
+5489,25,Aimee Carter,2012.0,"Goddess Interrupted (Goddess Test, #2)",4.02,26286
+5497,64,Darren Shan,2002.0,"Hunters of the Dusk (Cirque Du Freak, #7)",4.17,19326
+5500,52,Katherine Paterson,1980.0,Jacob Have I Loved,3.64,24920
+5504,31,D.J. MacHale,2004.0,"Black Water (Pendragon, #5)",4.16,19634
+5526,38,Carl Hiaasen,2005.0,Flush,3.86,20076
+5532,26,Marieke Nijkamp,2016.0,This Is Where It Ends,3.63,23764
+5535,25,Rebecca Stead,2012.0,Liar & Spy,3.81,18990
+5539,33,Meg Cabot,2009.0,"Being Nikki (Airhead, #2)",3.87,25531
+5541,15,Margaret Peterson Haddix,2001.0,"Among the Impostors (Shadow Children, #2)",4.05,21629
+5542,7,Christopher Pike,2010.0,"Thirst No. 3: The Eternal Dawn (Thirst, #3)",4.14,17343
+5544,17,Kristen Simmons,2012.0,"Article 5 (Article 5, #1)",3.78,23732
+5552,36,Jordan Sonnenblick,2004.0,"Drums, Girls & Dangerous Pie (Drums, Girls & Dangerous Pie, #1)",4.25,18551
+5565,57,Darren Shan,2002.0,"Allies of the Night (Cirque du Freak, #8)",4.19,18649
+5567,273,L.M. Montgomery,1919.0,"Rainbow Valley (Anne of Green Gables, #7)",4.0,27353
+5574,33,Jennifer Donnelly,2010.0,Revolution,4.02,20607
+5582,31,Garth Nix,2004.0,"Drowned Wednesday (The Keys to the Kingdom, #3)",3.85,21267
+5585,37,"James Patterson, Maxine Paetro",2012.0,"Confessions of a Murder Suspect (Confessions, #1)",3.89,19223
+5589,36,Jerry Spinelli,2003.0,Milkweed,4.0,19461
+5597,34,Amy Ewing,2014.0,"The Jewel (The Lone City, #1)",3.86,21247
+5632,42,Diana Wynne Jones,1990.0,"Castle in the Air (Howl's Moving Castle, #2)",3.93,22964
+5633,14,Jude Watson,2011.0,"A King's Ransom (The 39 Clues: Cahills vs. Vespers, #2)",4.14,18168
+5636,20,Elizabeth Scott,2008.0,Living Dead Girl,3.83,22014
+5645,24,Holly Black,2015.0,The Darkest Part of the Forest,3.91,22992
+5652,36,"Scott Westerfeld, Keith Thompson",2011.0,"Goliath (Leviathan, #3)",4.25,23911
+5660,23,Beth Revis,2013.0,"Shades of Earth (Across the Universe, #3)",4.11,24612
+5661,77,Ursula K. Le Guin,1990.0,"Tehanu (Earthsea Cycle, #4)",3.89,19503
+5662,36,Amy Tintera,2013.0,"Reboot (Reboot, #1)",3.92,23300
+5697,19,Heather Dixon,2011.0,Entwined,3.87,28950
+5708,29,Ben Mikaelsen,1997.0,"Touching Spirit Bear (Spirit Bear, #1)",3.85,17706
+5712,32,Kiera Cass,2014.0,"The Selection Stories: The Prince & The Guard (The Selection, #0.5, 2.5)",4.03,23695
+5722,56,"Joseph Delaney, Patrick  Arrasmith",2007.0,"Night of the Soul Stealer (The Last Apprentice / Wardstone Chronicles, #3)",4.12,18279
+5724,9,Jennifer Echols,2010.0,"Endless Summer (The Boys Next Door, #1-2)",4.02,18438
+5729,10,Kelly Creagh,2010.0,"Nevermore (Nevermore, #1)",3.87,24570
+5732,44,"Jonathan Stroud, Simon  Jones",2010.0,"The Ring of Solomon (Bartimaeus, #0.5)",4.19,18809
+5755,32,Holly Black,2002.0,Valiant (Modern Faerie Tales #2),3.92,26108
+5793,12,Mary E. Pearson,2015.0,"The Heart of Betrayal (The Remnant Chronicles, #2)",4.32,24104
+5803,20,Ellen Schreiber,2007.0,"Dance with a Vampire (Vampire Kisses, #4)",4.01,22119
+5805,28,Tamora Pierce,1998.0,"Tris's Book (Circle of Magic, #2)",4.07,24511
+5810,44,Scott Westerfeld,2004.0,"The Secret Hour (Midnighters, #1)",3.8,23933
+5813,10,Brandon Mull,2007.0,"The Candy Shop War (The Candy Shop War, #1)",4.03,19619
+5815,26,Maggie Stiefvater,2008.0,"Lament: The Faerie Queen's Deception (Books of Faerie, #1)",3.69,26116
+5822,95,"Carlos Ruiz Zafón, Lucia Graves",1986.0,"The Prince of Mist (Niebla, #1)",3.66,14381
+5827,48,"Laura Ingalls Wilder, Garth Williams",1953.0,"The First Four Years  (Little House, #9)",3.88,24180
+5842,26,Renee Ahdieh,2016.0,"The Rose & the Dagger (The Wrath & the Dawn, #2)",4.2,26503
+5855,29,Jenny Nimmo,2005.0,"Charlie Bone and the Castle of Mirrors (The Children of the Red King, #4)",3.89,20101
+5857,34,Andrea Cremer,2012.0,Bloodrose (Nightshade #3; Nightshade World #6),4.06,23874
+5875,14,Rae Carson,2013.0,"The Bitter Kingdom (Fire and Thorns, #3)",4.23,24420
+5880,30,Megan Whalen Turner,2000.0,"The Queen of Attolia (The Queen's Thief, #2)",4.23,23813
+5890,24,Jeanne DuPrau,2006.0,"The Prophet of Yonwood (Book of Ember, #3)",3.25,22237
+5900,41,Julie   Murphy,2015.0,"Dumplin' (Dumplin', #1)",3.87,22176
+5913,19,Wendy Mass,2005.0,A Mango-Shaped Space,4.22,20661
+5939,30,Laurie Halse Anderson,2014.0,The Impossible Knife of Memory,3.93,20992
+5943,10,"Julie Anne Peters, C.J. Bott",2009.0,"By the Time You Read This, I'll Be Dead",3.89,18722
+5946,28,D.J. MacHale,2005.0,"The Quillan Games (Pendragon, #7)",4.19,18296
+5959,17,Rita Williams-Garcia,2010.0,"One Crazy Summer (Gaither Sisters, #1)",3.95,18913
+5967,49,"Blue Balliett, Brett Helquist",2004.0,"Chasing Vermeer (Chasing Vermeer, #1)",3.71,22167
+5974,10,Kiera Cass,2014.0,"The Queen (The Selection, #0.4)",3.93,22362
+5981,18,Sarah Rees Brennan,2012.0,"Unspoken (The Lynburn Legacy, #1)",3.85,22927
+5985,19,Kelley Armstrong,2012.0,"The Calling (Darkness Rising, #2)",4.1,25930
+5989,10,Jessica Day George,2009.0,"Princess of the Midnight Ball (The Princesses of Westfalin Trilogy, #1)",3.92,26804
+5997,14,Jennifer Echols,2010.0,Forget You,3.79,24334
+6009,23,Megan Whalen Turner,2006.0,"The King of Attolia (The Queen's Thief, #3)",4.37,22724
+6010,31,"Ridley Pearson, David Frankland",2004.0,"Disney after Dark (Kingdom Keepers, #1)",3.91,18193
+6014,46,V.C. Andrews,1982.0,"My Sweet Audrina (Audrina, #1)",3.92,18549
+6031,44,Craig Silvey,2009.0,Jasper Jones,4.06,12680
+6034,16,Nina LaCour,2009.0,Hold Still,3.99,16238
+6040,55,Jonathan Stroud,2013.0,"The Screaming Staircase (Lockwood & Co., #1)",4.19,15446
+6051,27,Ally Carter,2013.0,"United We Spy (Gallagher Girls, #6)",4.44,22902
+6053,58,Anthony Horowitz,2005.0,"Raven's Gate (The Gatekeepers, #1)",3.9,18247
+6056,21,Melissa de la Cruz,2010.0,"Bloody Valentine (Blue Bloods, #5.5)",3.98,19903
+6086,28,Ellen Schreiber,2006.0,"Vampireville (Vampire Kisses, #3)",3.92,21676
+6122,47,Louise Rennison,2002.0,"Dancing in My Nuddy-Pants (Confessions of Georgia Nicolson, #4)",4.01,18451
+6124,19,Julie Anne Peters,2004.0,Luna,3.86,17859
+6133,36,D.J. MacHale,2003.0,"The Reality Bug (Pendragon, #4)",4.15,19049
+6164,16,Margaret Peterson Haddix,2002.0,"Among the Betrayed (Shadow Children, #3)",4.06,19964
+6175,49,Darren Shan,2002.0,"The Lake of Souls (Cirque Du Freak, #10)",4.19,16803
+6182,52,V.C. Andrews,1985.0,"Heaven (Casteel, #1)",4.01,17289
+6183,27,Jenny Nimmo,2006.0,"Charlie Bone and the Hidden King (The Children of the Red King, #5)",3.98,18899
+6201,79,Meg Cabot,2006.0,"Princess in Training (The Princess Diaries, #6)",3.7,23199
+6209,34,Elizabeth Eulberg,2010.0,"The Lonely Hearts Club (The Lonely Hearts Club, #1)",3.83,18208
+6214,8,Veronica Roth,2012.0,"The Divergent Series 2-Book Collection (Divergent, #1-2)",4.56,12490
+6226,20,Andrew  Smith,2013.0,"Winger (Winger, #1)",4.08,18596
+6230,72,Melvin Burgess,1996.0,Smack,3.87,11971
+6233,37,Jenny Nimmo,2003.0,"Charlie Bone and the Time Twister (The Children of the Red King, #2)",3.88,18374
+6235,33,Jenny Nimmo,2004.0,"Charlie Bone and the Invisible Boy (The Children of the Red King, #3)",3.89,19080
+6239,14,Ellen Schreiber,2009.0,"Royal Blood (Vampire Kisses, #6)",4.09,20049
+6244,13,Jessica Day George,2006.0,"Dragon Slippers (Dragon Slippers, #1)",4.22,20916
+6248,39,Lisa McMann,2010.0,"Gone (Wake, #3)",3.72,24393
+6263,22,S.A. Bodeen,2008.0,"The Compound (The Compound, #1)",3.87,17687
+6266,22,Kimberly Derting,2011.0,"The Pledge (The Pledge, #1)",3.8,25322
+6270,19,Dan Wells,2013.0,"Fragments (Partials Sequence, #2)",4.12,19108
+6275,24,Charlie Higson,2009.0,"The Enemy (The Enemy, #1)",4.08,12531
+6279,44,Kenneth Oppel,2004.0,"Airborn (Matt Cruse, #1)",4.16,18717
+6282,38,"Colin Meloy, Carson Ellis",2011.0,"Wildwood (Wildwood Chronicles, #1)",3.63,18770
+6296,8,Sherwood Smith,1997.0,Crown Duel (Crown & Court #1-2),4.19,19546
+6301,32,Ilsa J. Bick,2011.0,"Ashes (Ashes Trilogy, #1)",3.94,19532
+6308,66,"Michelle Paver, Geoff Taylor",2004.0,"Wolf Brother (Chronicles of Ancient Darkness, #1)",4.15,15673
+6332,30,Heather Brewer,2009.0,"Tenth Grade Bleeds (The Chronicles of Vladimir Tod, #3)",4.24,17579
+6350,26,"Dave Barry, Ridley Pearson, Greg Call",2007.0,"Peter and the Secret of Rundoon (Peter and the Starcatchers, #3)",4.16,18570
+6368,27,Tamora Pierce,1998.0,"Daja's Book (Circle of Magic, #3)",4.06,22695
+6374,23,Tamora Pierce,1999.0,"Briar's Book (Circle of Magic, #4)",4.14,23152
+6387,2,L.J. Smith,1997.0,"The Forbidden Game (The Forbidden Game, #1-3)",4.19,18443
+6388,6,Elizabeth Scott,2008.0,Perfect You,3.7,20858
+6391,47,Cecily von Ziegesar,2004.0,"You're the One That I Want (Gossip Girl, #6)",3.71,16643
+6396,39,Alison Croggon,2002.0,"The Naming (The Books of Pellinor, #1)",4.0,19214
+6402,59,Cecily von Ziegesar,2002.0,"You Know You Love Me (Gossip Girl, #2)",3.53,18052
+6421,61,Lauren Kate,2013.0,"Teardrop (Teardrop, #1)",3.65,18998
+6429,4,Carolyn Keene,,Nancy Drew: #1-64,4.19,16743
+6433,18,Brigid Kemmerer,2012.0,"Storm (Elemental, #1)",3.96,21281
+6434,12,Maureen Johnson,2011.0,"The Last Little Blue Envelope (Little Blue Envelope, #2)",3.86,19275
+6448,33,Garth Nix,2004.0,"Grim Tuesday (The Keys to the Kingdom, #2)",3.86,19133
+6466,28,Leila Sales,2013.0,This Song Will Save Your Life,3.95,19947
+6470,28,"Jenny Han, Siobhan Vivian",2012.0,"Burn for Burn (Burn for Burn, #1)",3.87,18772
+6478,10,Tahereh Mafi,2013.0,"Fracture Me (Shatter Me, #2.5)",3.77,24092
+6490,31,Orson Scott Card,2010.0,"Pathfinder (Pathfinder, #1)",3.98,16979
+6495,16,"Jim Kjelgaard, Carl Pfeuffer",1945.0,"Big Red (Big Red, #1)",4.11,15923
+6503,27,Jaclyn Moriarty,2003.0,"The Year of Secret Assignments (Ashbury/Brookfield, #2)",3.9,16357
+6505,143,L.M. Montgomery,1926.0,The Blue Castle ,4.23,18190
+6515,15,Kasie West,2013.0,"Pivot Point (Pivot Point, #1)",4.08,20173
+6522,34,Becca Fitzpatrick,2014.0,Black Ice,3.88,17571
+6531,11,L.J. Smith,2008.0,"The Initiation / The Captive Part I (The Secret Circle, #1-2)",3.96,19563
+6541,44,"Joseph Delaney, Patrick  Arrasmith",2007.0,"Attack of the Fiend (The Last Apprentice / Wardstone Chronicles, #4)",4.19,14814
+6550,24,Caragh M. O'Brien,2011.0,"Prized (Birthmarked, #2)",3.99,19328
+6563,24,Ellen Schreiber,2005.0,"Kissing Coffins (Vampire Kisses, #2)",3.87,22124
+6565,22,John Corey Whaley,2011.0,Where Things Come Back,3.81,14852
+6571,41,John Flanagan,2011.0,"The Outcasts (Brotherband Chronicles, #1)",4.37,16613
+6582,26,L.A. Meyer,2002.0,"Bloody Jack (Bloody Jack, #1)",4.11,19147
+6608,52,Kathryn Lasky,2003.0,"The Capture (Guardians of Ga'Hoole, #1)",3.88,18830
+6616,27,Neal Shusterman,2013.0,"UnSouled (Unwind, #3)",4.23,15526
+6623,34,Megan Abbott,2012.0,Dare Me,3.23,15618
+6624,21,Rachel Caine,2011.0,"Last Breath (The Morganville Vampires, #11)",4.32,19963
+6628,29,E.D. Baker,2002.0,"The Frog Princess (Tales of the Frog Princess, #1)",3.81,22176
+6635,14,Ellen Schreiber,2010.0,"Love Bites (Vampire Kisses, #7)",4.13,17707
+6640,25,Garth Nix,2007.0,"Lady Friday (The Keys to the Kingdom, #5)",3.91,17675
+6643,19,Wendy Mass,2008.0,Every Soul a Star,4.1,17282
+6649,34,Kendare Blake,2012.0,"Girl of Nightmares (Anna, #2)",3.9,20708
+6652,49,Darren Shan,2005.0,"Lord of the Shadows (Cirque Du Freak, #11)",4.22,15794
+6658,62,L.J. Smith,1991.0,"The Fury (The Vampire Diaries, #3)",3.55,19911
+6660,55,Harlan Coben,2011.0,"Shelter (Mickey Bolitar, #1)",3.92,9081
+6666,28,Josephine Angelini,2013.0,"Goddess (Starcrossed, #3)",4.24,20589
+6671,19,Robison Wells,2011.0,"Variant (Variant, #1)",3.92,18473
+6674,20,Amy Efaw,2009.0,After,3.73,17238
+6679,53,Julianna Baggott,2012.0,"Pure (Pure, #1)",3.74,18778
+6680,20,Susane Colasanti,2010.0,Something Like Fate,3.72,17347
+6683,30,Diane Duane,1983.0,"So You Want to Be a Wizard (Young Wizards, #1)",3.8,20408
+6705,24,Jennifer L. Armentrout,2014.0,Don't Look Back,4.11,11499
+6710,14,Wendelin Van Draanen,2011.0,The Running Dream,4.3,17061
+6721,31,Anna Godbersen,2009.0,"Envy (Luxe, #3)",3.91,20432
+6722,19,Ann Aguirre,2013.0,"Horde (Razorland, #3)",4.28,17422
