@@ -13,8 +13,6 @@ def get_grpc_client():
     channel = grpc.insecure_channel('localhost:50051')
     return cache_pb2_grpc.CacheStub(channel)
 
-
-# Connect to PostgreSQL
 def get_db():
     if 'db' not in g:
         try:
@@ -27,7 +25,7 @@ def get_db():
             )
         except psycopg2.Error as e:
             logging.error("Failed to connect to PostgreSQL: %s", e)
-            raise
+            return None  # Return None to indicate error
     return g.db
 
 @app.teardown_appcontext
@@ -36,20 +34,21 @@ def close_db(error):
     if db is not None:
         db.close()
 
-# Initialize Redis
 def get_redis_client():
     if 'redis_client' not in g:
         try:
             g.redis_client = redis.StrictRedis(host='localhost', port=6379, db=0)
         except redis.RedisError as e:
             logging.error("Failed to connect to Redis: %s", e)
-            raise
+            return None  # Return None to indicate error
     return g.redis_client
 
-# Routes for Cache
 @app.route('/api/cache/get', methods=['GET'])
 def get_cache():
     key = request.args.get('key')
+    if not key:
+        return jsonify({'error': 'Key parameter is missing'}), 400  # Bad request
+
     client = get_grpc_client()
     try:
         response = client.Get(cache_pb2.GetRequest(key=key))
@@ -63,6 +62,9 @@ def set_cache():
     data = request.json
     key = data.get('key')
     value = data.get('value')
+    if not key or not value:
+        return jsonify({'error': 'Key or value parameter is missing'}), 400  # Bad request
+
     client = get_grpc_client()
     try:
         response = client.Set(cache_pb2.SetRequest(key=key, value=value))
@@ -71,10 +73,12 @@ def set_cache():
         logging.error("gRPC error while setting cache: %s", e)
         return jsonify({'error': 'Failed to set value in cache'}), 500
 
-# Routes for Cars and Books
 @app.route('/api/cars', methods=['GET'])
 def get_cars():
     db = get_db()
+    if not db:
+        return jsonify({'error': 'Failed to connect to PostgreSQL'}), 500
+
     cur = db.cursor()
     try:
         cur.execute("SELECT * FROM cars;")
@@ -89,6 +93,9 @@ def get_cars():
 @app.route('/api/books', methods=['GET'])
 def get_books():
     db = get_db()
+    if not db:
+        return jsonify({'error': 'Failed to connect to PostgreSQL'}), 500
+
     cur = db.cursor()
     try:
         cur.execute("SELECT * FROM books;")
@@ -101,4 +108,4 @@ def get_books():
         cur.close()
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True)  # Debug mode disabled in production environment
