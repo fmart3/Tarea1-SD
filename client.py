@@ -70,23 +70,24 @@ def get_books_by_year(year):
         return None
 
 def run():
-    # Add a new car
-    add_car(50074,'toyota','Toyota Corolla','blue','05/2020',2020,21500,88,107,'Automatic','Petrol',"6 l/100 km","125 g/km",55.0,'Corolla Hybrid Excel')
+    # Agregar un nuevo auto
+    add_car(50074,'toyota','Toyota Corolla','azul','05/2020',2020,21500,88,107,'Automático','Gasolina',"6 l/100 km","125 g/km",55.0,'Corolla Hybrid Excel')
 
-    # Retrieve cars with brand = "Ford"
+    # Obtener coches con marca = "Ford"
     ford_cars = get_cars_by_brand("ford")
     if ford_cars:
-        print("Cars with brand 'Ford':", ford_cars)
+        print("Coches con marca 'Ford':", ford_cars)
     else:
-        print("No cars found with brand 'Ford'")
+        print("No se encontraron coches con marca 'Ford'")
 
-    #Retrieve book Divergent
-    title = "Divergent (Divergent, #1)"
-    book = get_book_by_title(title)
-    if book:
-        print("Book retrieved by title:", book)
+    # Obtener el libro Divergent
+    titulo = "Divergent (Divergent, #1)"
+    libro = get_book_by_title(titulo)
+    if libro:
+        print("Libro recuperado por título:", libro)
     else:
-        print("Book not found with title", title)
+        print("Libro no encontrado con el título", titulo)
+
     
 if __name__ == '__main__':
     run()
