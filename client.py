@@ -1,34 +1,34 @@
 import requests
 
-def set_cache(key, value):
-    url = "http://127.0.0.1:5000/api/cache/set"
-    payload = {'key': key, 'value': value}
+def add_car(make, model):
+    url = "http://localhost:5000/api/cars"
+    payload = {'make': make, 'model': model}
     response = requests.post(url, json=payload)
     
     if response.status_code == 200:
-        print("Cache set successfully")
+        print("Car added successfully")
     else:
-        print("Failed to set cache:", response.status_code, response.text)
+        print("Failed to add car:", response.status_code, response.text)
 
-def get_cache(key):
-    url = f"http://127.0.0.1:5000/api/cache/get?key={key}"
+def get_books():
+    url = "http://localhost:5000/api/books"
     response = requests.get(url)
     if response.status_code == 200:
         return response.json()
     else:
-        print("Failed to retrieve value from cache:", response.status_code)
+        print("Failed to retrieve books:", response.status_code)
         return None
 
 def run():
-    # Set a value in the cache
-    set_cache("my_key", "my_value")
+    # Add a new car
+    add_car("Toyota", "Camry")
 
-    # Retrieve the value from the cache
-    response = get_cache("my_key")
-    if response:
-        print("Value retrieved from cache:", response['value'])
+    # Retrieve all cars
+    books = get_books()
+    if books:
+        print("Books retrieved from database:", books)
     else:
-        print("Value not found in cache")
+        print("No books found in database")
 
 if __name__ == '__main__':
     run()
